@@ -1,0 +1,261 @@
+country,rows,first_year,last_year,iso_code_count,iso_code_missing_pct,has_iso_code
+ASEAN (Ember),26,2000,2025,0,100.0,False
+Afghanistan,125,1900,2024,1,0.0,True
+Africa,61,1965,2025,0,100.0,False
+Africa (EI),61,1965,2025,0,100.0,False
+Africa (Ember),26,2000,2025,0,100.0,False
+Albania,125,1900,2024,1,0.0,True
+Algeria,126,1900,2025,1,0.0,True
+American Samoa,45,1980,2024,1,0.0,True
+Angola,126,1900,2025,1,0.0,True
+Antarctica,45,1980,2024,1,0.0,True
+Antigua and Barbuda,45,1980,2024,1,0.0,True
+Argentina,126,1900,2025,1,0.0,True
+Armenia,34,1992,2025,1,0.0,True
+Aruba,39,1986,2024,1,0.0,True
+Asia,61,1965,2025,0,100.0,False
+Asia (Ember),26,2000,2025,0,100.0,False
+Asia Pacific (EI),61,1965,2025,0,100.0,False
+Australia,126,1900,2025,1,0.0,True
+Austria,126,1900,2025,1,0.0,True
+Azerbaijan,41,1985,2025,1,0.0,True
+Bahamas,45,1980,2024,1,0.0,True
+Bahrain,126,1900,2025,1,0.0,True
+Bangladesh,126,1900,2025,1,0.0,True
+Barbados,125,1900,2024,1,0.0,True
+Belarus,41,1985,2025,1,0.0,True
+Belgium,126,1900,2025,1,0.0,True
+Belize,45,1980,2024,1,0.0,True
+Benin,45,1980,2024,1,0.0,True
+Bermuda,45,1980,2024,1,0.0,True
+Bhutan,45,1980,2024,1,0.0,True
+Bolivia,126,1900,2025,1,0.0,True
+Bosnia and Herzegovina,34,1992,2025,1,0.0,True
+Botswana,125,1900,2024,1,0.0,True
+Brazil,126,1900,2025,1,0.0,True
+British Virgin Islands,45,1980,2024,1,0.0,True
+Brunei,126,1900,2025,1,0.0,True
+Bulgaria,126,1900,2025,1,0.0,True
+Burkina Faso,45,1980,2024,1,0.0,True
+Burundi,125,1900,2024,1,0.0,True
+CIS (EI),61,1965,2025,0,100.0,False
+Cambodia,46,1980,2025,1,0.0,True
+Cameroon,125,1900,2024,1,0.0,True
+Canada,126,1900,2025,1,0.0,True
+Cape Verde,45,1980,2024,1,0.0,True
+Cayman Islands,45,1980,2024,1,0.0,True
+Central African Republic,45,1980,2024,1,0.0,True
+Chad,46,1980,2025,1,0.0,True
+Chile,126,1900,2025,1,0.0,True
+China,126,1900,2025,1,0.0,True
+Colombia,126,1900,2025,1,0.0,True
+Comoros,45,1980,2024,1,0.0,True
+Congo,126,1900,2025,1,0.0,True
+Cook Islands,45,1980,2024,1,0.0,True
+Costa Rica,46,1980,2025,1,0.0,True
+Cote d'Ivoire,125,1900,2024,1,0.0,True
+Croatia,36,1990,2025,1,0.0,True
+Cuba,126,1900,2025,1,0.0,True
+Curacao,14,2012,2025,1,0.0,True
+Cyprus,61,1965,2025,1,0.0,True
+Czechia,126,1900,2025,1,0.0,True
+Czechoslovakia,93,1900,1992,0,100.0,False
+Democratic Republic of Congo,126,1900,2025,1,0.0,True
+Denmark,126,1900,2025,1,0.0,True
+Djibouti,45,1980,2024,1,0.0,True
+Dominica,45,1980,2024,1,0.0,True
+Dominican Republic,46,1980,2025,1,0.0,True
+EU (Ember),36,1990,2025,0,100.0,False
+East Germany,11,1980,1990,0,100.0,False
+East Timor,22,2003,2024,1,0.0,True
+Ecuador,126,1900,2025,1,0.0,True
+Egypt,126,1900,2025,1,0.0,True
+El Salvador,46,1980,2025,1,0.0,True
+Equatorial Guinea,46,1980,2025,1,0.0,True
+Eritrea,31,1994,2024,1,0.0,True
+Estonia,41,1985,2025,1,0.0,True
+Eswatini,125,1900,2024,1,0.0,True
+Ethiopia,46,1980,2025,1,0.0,True
+Europe,61,1965,2025,0,100.0,False
+Europe (EI),61,1965,2025,0,100.0,False
+Europe (Ember),26,2000,2025,0,100.0,False
+European Union (27),61,1965,2025,0,100.0,False
+Falkland Islands,45,1980,2024,1,0.0,True
+Faroe Islands,45,1980,2024,1,0.0,True
+Fiji,45,1980,2024,1,0.0,True
+Finland,61,1965,2025,1,0.0,True
+France,126,1900,2025,1,0.0,True
+French Guiana,45,1980,2024,1,0.0,True
+French Polynesia,45,1980,2024,1,0.0,True
+G20 (Ember),26,2000,2025,0,100.0,False
+G7 (Ember),26,2000,2025,0,100.0,False
+Gabon,126,1900,2025,1,0.0,True
+Gambia,45,1980,2024,1,0.0,True
+Georgia,34,1992,2025,1,0.0,True
+Germany,126,1900,2025,1,0.0,True
+Ghana,126,1900,2025,1,0.0,True
+Gibraltar,45,1980,2024,1,0.0,True
+Greece,126,1900,2025,1,0.0,True
+Greenland,125,1900,2024,1,0.0,True
+Grenada,45,1980,2024,1,0.0,True
+Guadeloupe,45,1980,2024,1,0.0,True
+Guam,45,1980,2024,1,0.0,True
+Guatemala,125,1900,2024,1,0.0,True
+Guinea,45,1980,2024,1,0.0,True
+Guinea-Bissau,45,1980,2024,1,0.0,True
+Guyana,46,1980,2025,1,0.0,True
+Haiti,45,1980,2024,1,0.0,True
+High-income countries,61,1965,2025,0,100.0,False
+Honduras,45,1980,2024,1,0.0,True
+Hong Kong,61,1965,2025,1,0.0,True
+Hungary,126,1900,2025,1,0.0,True
+Iceland,61,1965,2025,1,0.0,True
+India,126,1900,2025,1,0.0,True
+Indonesia,126,1900,2025,1,0.0,True
+Iran,126,1900,2025,1,0.0,True
+Iraq,126,1900,2025,1,0.0,True
+Ireland,126,1900,2025,1,0.0,True
+Israel,126,1900,2025,1,0.0,True
+Italy,126,1900,2025,1,0.0,True
+Jamaica,45,1980,2024,1,0.0,True
+Japan,126,1900,2025,1,0.0,True
+Jordan,45,1980,2024,1,0.0,True
+Kazakhstan,41,1985,2025,1,0.0,True
+Kenya,46,1980,2025,1,0.0,True
+Kiribati,45,1980,2024,1,0.0,True
+Kosovo,26,2000,2025,0,100.0,False
+Kuwait,126,1900,2025,1,0.0,True
+Kyrgyzstan,34,1992,2025,1,0.0,True
+Laos,45,1980,2024,1,0.0,True
+Latin America and Caribbean (Ember),26,2000,2025,0,100.0,False
+Latvia,41,1985,2025,1,0.0,True
+Lebanon,45,1980,2024,1,0.0,True
+Lesotho,45,1980,2024,1,0.0,True
+Liberia,45,1980,2024,1,0.0,True
+Libya,126,1900,2025,1,0.0,True
+Lithuania,41,1985,2025,1,0.0,True
+Low-income countries,58,1968,2025,0,100.0,False
+Lower-middle-income countries,61,1965,2025,0,100.0,False
+Luxembourg,61,1965,2025,1,0.0,True
+Macao,45,1980,2024,1,0.0,True
+Madagascar,126,1900,2025,1,0.0,True
+Malawi,45,1980,2024,1,0.0,True
+Malaysia,126,1900,2025,1,0.0,True
+Maldives,45,1980,2024,1,0.0,True
+Mali,45,1980,2024,1,0.0,True
+Malta,46,1980,2025,1,0.0,True
+Martinique,45,1980,2024,1,0.0,True
+Mauritania,45,1980,2024,1,0.0,True
+Mauritius,45,1980,2024,1,0.0,True
+Mexico,126,1900,2025,1,0.0,True
+Micronesia (country),45,1980,2024,1,0.0,True
+Middle East (EI),61,1965,2025,0,100.0,False
+Middle East (Ember),26,2000,2025,0,100.0,False
+Moldova,34,1992,2025,1,0.0,True
+Mongolia,126,1900,2025,1,0.0,True
+Montenegro,21,2005,2025,1,0.0,True
+Montserrat,45,1980,2024,1,0.0,True
+Morocco,126,1900,2025,1,0.0,True
+Mozambique,126,1900,2025,1,0.0,True
+Myanmar,126,1900,2025,1,0.0,True
+Namibia,35,1990,2024,1,0.0,True
+Nauru,45,1980,2024,1,0.0,True
+Nepal,125,1900,2024,1,0.0,True
+Netherlands,126,1900,2025,1,0.0,True
+Netherlands Antilles,60,1965,2024,1,0.0,True
+New Caledonia,46,1980,2025,1,0.0,True
+New Zealand,126,1900,2025,1,0.0,True
+Nicaragua,45,1980,2024,1,0.0,True
+Niger,125,1900,2024,1,0.0,True
+Nigeria,126,1900,2025,1,0.0,True
+Niue,45,1980,2024,1,0.0,True
+North America,61,1965,2025,0,100.0,False
+North America (EI),61,1965,2025,0,100.0,False
+North America (Ember),26,2000,2025,0,100.0,False
+North Korea,125,1900,2024,1,0.0,True
+North Macedonia,36,1990,2025,1,0.0,True
+Northern Mariana Islands,45,1980,2024,1,0.0,True
+Norway,126,1900,2025,1,0.0,True
+OECD (EI),61,1965,2025,0,100.0,False
+OECD (Ember),26,2000,2025,0,100.0,False
+OPEC (EI),61,1965,2025,0,100.0,False
+Oceania,61,1965,2025,0,100.0,False
+Oceania (Ember),26,2000,2025,0,100.0,False
+Oman,126,1900,2025,1,0.0,True
+Pakistan,126,1900,2025,1,0.0,True
+Palestine,28,1997,2024,1,0.0,True
+Panama,45,1980,2024,1,0.0,True
+Papua New Guinea,46,1980,2025,1,0.0,True
+Paraguay,46,1980,2025,1,0.0,True
+Peru,126,1900,2025,1,0.0,True
+Philippines,126,1900,2025,1,0.0,True
+Poland,126,1900,2025,1,0.0,True
+Portugal,126,1900,2025,1,0.0,True
+Puerto Rico,46,1980,2025,1,0.0,True
+Qatar,126,1900,2025,1,0.0,True
+Reunion,45,1980,2024,1,0.0,True
+Romania,126,1900,2025,1,0.0,True
+Russia,41,1985,2025,1,0.0,True
+Rwanda,45,1980,2024,1,0.0,True
+Saint Helena,45,1980,2024,1,0.0,True
+Saint Kitts and Nevis,45,1980,2024,1,0.0,True
+Saint Lucia,45,1980,2024,1,0.0,True
+Saint Pierre and Miquelon,45,1980,2024,1,0.0,True
+Saint Vincent and the Grenadines,45,1980,2024,1,0.0,True
+Samoa,45,1980,2024,1,0.0,True
+Sao Tome and Principe,45,1980,2024,1,0.0,True
+Saudi Arabia,126,1900,2025,1,0.0,True
+Senegal,45,1980,2024,1,0.0,True
+Serbia,36,1990,2025,1,0.0,True
+Serbia and Montenegro,14,1992,2005,0,100.0,False
+Seychelles,45,1980,2024,1,0.0,True
+Sierra Leone,45,1980,2024,1,0.0,True
+Singapore,61,1965,2025,1,0.0,True
+Slovakia,61,1965,2025,1,0.0,True
+Slovenia,36,1990,2025,1,0.0,True
+Solomon Islands,45,1980,2024,1,0.0,True
+Somalia,45,1980,2024,1,0.0,True
+South Africa,126,1900,2025,1,0.0,True
+South America,61,1965,2025,0,100.0,False
+South Korea,126,1900,2025,1,0.0,True
+South Sudan,14,2012,2025,1,0.0,True
+South and Central America (EI),61,1965,2025,0,100.0,False
+Spain,126,1900,2025,1,0.0,True
+Sri Lanka,61,1965,2025,1,0.0,True
+Sudan,46,1980,2025,1,0.0,True
+Suriname,125,1900,2024,1,0.0,True
+Sweden,126,1900,2025,1,0.0,True
+Switzerland,126,1900,2025,1,0.0,True
+Syria,126,1900,2025,1,0.0,True
+Taiwan,126,1900,2025,1,0.0,True
+Tajikistan,34,1992,2025,1,0.0,True
+Tanzania,126,1900,2025,1,0.0,True
+Thailand,126,1900,2025,1,0.0,True
+Togo,45,1980,2024,1,0.0,True
+Tonga,45,1980,2024,1,0.0,True
+Trinidad and Tobago,126,1900,2025,1,0.0,True
+Tunisia,126,1900,2025,1,0.0,True
+Turkey,126,1900,2025,1,0.0,True
+Turkmenistan,41,1985,2025,1,0.0,True
+Turks and Caicos Islands,45,1980,2024,1,0.0,True
+Tuvalu,45,1980,2024,1,0.0,True
+USSR,92,1900,1991,0,100.0,False
+Uganda,45,1980,2024,1,0.0,True
+Ukraine,121,1900,2025,1,0.0,True
+United Arab Emirates,126,1900,2025,1,0.0,True
+United Kingdom,326,1700,2025,1,0.0,True
+United States,126,1900,2025,1,0.0,True
+United States Virgin Islands,45,1980,2024,1,0.0,True
+Upper-middle-income countries,61,1965,2025,0,100.0,False
+Uruguay,46,1980,2025,1,0.0,True
+Uzbekistan,41,1985,2025,1,0.0,True
+Vanuatu,45,1980,2024,1,0.0,True
+Venezuela,126,1900,2025,1,0.0,True
+Vietnam,126,1900,2025,1,0.0,True
+West Germany,11,1980,1990,0,100.0,False
+Western Sahara,45,1980,2024,1,0.0,True
+World,136,1800,2025,0,100.0,False
+Yemen,46,1980,2025,1,0.0,True
+Yugoslavia,92,1900,1991,0,100.0,False
+Zambia,126,1900,2025,1,0.0,True
+Zimbabwe,126,1900,2025,1,0.0,True

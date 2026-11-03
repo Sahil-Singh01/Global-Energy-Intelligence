@@ -1,0 +1,131 @@
+column,dtype,non_null_count,missing_count,missing_pct,n_unique_non_null,inferred_family
+country,object,19494,0,0.0,260,Identifiers
+year,int64,19494,0,0.0,326,Identifiers
+iso_code,object,17480,2014,10.33,220,Identifiers
+population,float64,18319,1175,6.03,18256,Population and economy
+gdp,float64,11834,7660,39.29,11834,Population and economy
+bioenergy_electricity_per_capita_kwh,float64,6115,13379,68.63,3232,"Electricity generation, demand and trade"
+bioenergy_electricity_share_pct,float64,6411,13083,67.11,3320,Electricity shares
+bioenergy_electricity_twh,float64,6437,13057,66.98,1261,"Electricity generation, demand and trade"
+biofuels_energy_annual_change_pct,float64,1891,17603,90.3,1700,Annual changes
+biofuels_energy_annual_change_twh,float64,2975,16519,84.74,1730,Annual changes
+biofuels_energy_per_capita_kwh,float64,2674,16820,86.28,1709,Per-capita indicators
+biofuels_energy_share_pct,float64,3069,16425,84.26,1944,Energy-source shares
+biofuels_energy_twh,float64,3069,16425,84.26,1735,Energy quantities (TWh)
+coal_electricity_per_capita_kwh,float64,6651,12843,65.88,3346,"Electricity generation, demand and trade"
+coal_electricity_share_pct,float64,7275,12219,62.68,3900,Electricity shares
+coal_electricity_twh,float64,7301,12193,62.55,3092,"Electricity generation, demand and trade"
+coal_energy_annual_change_pct,float64,5198,14296,73.34,5060,Annual changes
+coal_energy_annual_change_twh,float64,5318,14176,72.72,5026,Annual changes
+coal_energy_per_capita_kwh,float64,4947,14547,74.62,4825,Per-capita indicators
+coal_energy_share_pct,float64,5435,14059,72.12,5225,Energy-source shares
+coal_energy_twh,float64,5435,14059,72.12,5104,Energy quantities (TWh)
+coal_production_annual_change_pct,float64,8081,11413,58.55,7690,Energy production
+coal_production_annual_change_twh,float64,15904,3590,18.42,7312,Energy production
+coal_production_per_capita_kwh,float64,15757,3737,19.17,7823,Energy production
+coal_production_twh,float64,16162,3332,17.09,7387,Energy production
+electricity_carbon_intensity_gco2eq_per_kwh,float64,6332,13162,67.52,4906,Electricity emissions and carbon intensity
+electricity_demand_per_capita_kwh,float64,6056,13438,68.93,6031,"Electricity generation, demand and trade"
+electricity_demand_twh,float64,6378,13116,67.28,3871,"Electricity generation, demand and trade"
+electricity_emissions_mtco2eq,float64,6028,13466,69.08,2910,Electricity emissions and carbon intensity
+electricity_generation_per_capita_kwh,float64,7221,12273,62.96,7195,"Electricity generation, demand and trade"
+electricity_generation_twh,float64,7871,11623,59.62,5279,"Electricity generation, demand and trade"
+electricity_net_imports_share_of_demand_pct,float64,6032,13462,69.06,3580,Electricity shares
+electricity_net_imports_twh,float64,6126,13368,68.57,1703,"Electricity generation, demand and trade"
+electricity_share_of_total_energy_pct,float64,4022,15472,79.37,4005,Electricity shares
+fossil_fuels_electricity_per_capita_kwh,float64,6691,12803,65.68,6479,"Electricity generation, demand and trade"
+fossil_fuels_electricity_share_pct,float64,7315,12179,62.48,5645,Electricity shares
+fossil_fuels_electricity_twh,float64,7341,12153,62.34,4183,"Electricity generation, demand and trade"
+fossil_fuels_energy_annual_change_pct,float64,4858,14636,75.08,4778,Annual changes
+fossil_fuels_energy_annual_change_twh,float64,4858,14636,75.08,4779,Annual changes
+fossil_fuels_energy_per_capita_kwh,float64,4487,15007,76.98,4487,Per-capita indicators
+fossil_fuels_energy_share_pct,float64,4975,14519,74.48,4769,Energy-source shares
+fossil_fuels_energy_twh,float64,4975,14519,74.48,4894,Energy quantities (TWh)
+gas_electricity_per_capita_kwh,float64,6523,12971,66.54,3969,"Electricity generation, demand and trade"
+gas_electricity_share_pct,float64,7147,12347,63.34,4454,Electricity shares
+gas_electricity_twh,float64,7173,12321,63.2,3412,"Electricity generation, demand and trade"
+gas_energy_annual_change_pct,float64,5104,14390,73.82,4986,Annual changes
+gas_energy_annual_change_twh,float64,5118,14376,73.75,4966,Annual changes
+gas_energy_per_capita_kwh,float64,4746,14748,75.65,4720,Per-capita indicators
+gas_energy_share_pct,float64,5234,14260,73.15,5128,Energy-source shares
+gas_energy_twh,float64,5234,14260,73.15,5070,Energy quantities (TWh)
+gas_production_annual_change_pct,float64,6839,12655,64.92,6228,Energy production
+gas_production_annual_change_twh,float64,15942,3552,18.22,6122,Energy production
+gas_production_per_capita_kwh,float64,15697,3797,19.48,6514,Energy production
+gas_production_twh,float64,16190,3304,16.95,6267,Energy production
+hydro_electricity_per_capita_kwh,float64,8549,10945,56.15,6799,"Electricity generation, demand and trade"
+hydro_electricity_share_pct,float64,7720,11774,60.4,5748,Electricity shares
+hydro_electricity_twh,float64,9359,10135,51.99,4927,"Electricity generation, demand and trade"
+hydro_energy_annual_change_pct,float64,5028,14466,74.21,4859,Annual changes
+hydro_energy_annual_change_twh,float64,5618,13876,71.18,4756,Annual changes
+hydro_energy_per_capita_kwh,float64,5246,14248,73.09,4639,Per-capita indicators
+hydro_energy_share_pct,float64,5734,13760,70.59,5047,Energy-source shares
+hydro_energy_twh,float64,5734,13760,70.59,4770,Energy quantities (TWh)
+low_carbon_electricity_per_capita_kwh,float64,7701,11793,60.5,6554,"Electricity generation, demand and trade"
+low_carbon_electricity_share_pct,float64,7605,11889,60.99,5882,Electricity shares
+low_carbon_electricity_twh,float64,8453,11041,56.64,4695,"Electricity generation, demand and trade"
+low_carbon_energy_annual_change_pct,float64,5253,14241,73.05,5087,Annual changes
+low_carbon_energy_annual_change_twh,float64,5618,13876,71.18,5073,Annual changes
+low_carbon_energy_per_capita_kwh,float64,5246,14248,73.09,4873,Per-capita indicators
+low_carbon_energy_share_pct,float64,5734,13760,70.59,5281,Energy-source shares
+low_carbon_energy_twh,float64,5734,13760,70.59,5122,Energy quantities (TWh)
+nuclear_electricity_per_capita_kwh,float64,9151,10343,53.06,2178,"Electricity generation, demand and trade"
+nuclear_electricity_share_pct,float64,7673,11821,60.64,2216,Electricity shares
+nuclear_electricity_twh,float64,9951,9543,48.95,2487,"Electricity generation, demand and trade"
+nuclear_energy_annual_change_pct,float64,2515,16979,87.1,2307,Annual changes
+nuclear_energy_annual_change_twh,float64,11639,7855,40.29,2327,Annual changes
+nuclear_energy_per_capita_kwh,float64,11350,8144,41.78,2144,Per-capita indicators
+nuclear_energy_share_pct,float64,11446,8048,41.28,2504,Energy-source shares
+nuclear_energy_twh,float64,11897,7597,38.97,2307,Energy quantities (TWh)
+oil_electricity_per_capita_kwh,float64,6630,12864,65.99,6084,"Electricity generation, demand and trade"
+oil_electricity_share_pct,float64,7254,12240,62.79,5502,Electricity shares
+oil_electricity_twh,float64,7280,12214,62.66,2810,"Electricity generation, demand and trade"
+oil_energy_annual_change_pct,float64,5618,13876,71.18,5539,Annual changes
+oil_energy_annual_change_twh,float64,5618,13876,71.18,5537,Annual changes
+oil_energy_per_capita_kwh,float64,5246,14248,73.09,5240,Per-capita indicators
+oil_energy_share_pct,float64,5734,13760,70.59,5611,Energy-source shares
+oil_energy_twh,float64,5734,13760,70.59,5646,Energy quantities (TWh)
+oil_production_annual_change_pct,float64,8132,11362,58.28,7367,Energy production
+oil_production_annual_change_twh,float64,16619,2875,14.75,6953,Energy production
+oil_production_per_capita_kwh,float64,16273,3221,16.52,7705,Energy production
+oil_production_twh,float64,16867,2627,13.48,6798,Energy production
+other_renewables_excluding_bioenergy_electricity_per_capita_kwh,float64,6128,13366,68.56,925,"Electricity generation, demand and trade"
+other_renewables_excluding_bioenergy_electricity_share_pct,float64,6424,13070,67.05,1162,Electricity shares
+other_renewables_excluding_bioenergy_electricity_twh,float64,6450,13044,66.91,750,"Electricity generation, demand and trade"
+other_renewables_including_bioenergy_electricity_per_capita_kwh,float64,8006,11488,58.93,4406,"Electricity generation, demand and trade"
+other_renewables_including_bioenergy_electricity_share_pct,float64,7672,11822,60.64,4247,Electricity shares
+other_renewables_including_bioenergy_electricity_twh,float64,8780,10714,54.96,2689,"Electricity generation, demand and trade"
+other_renewables_including_bioenergy_energy_annual_change_pct,float64,3573,15921,81.67,3385,Annual changes
+other_renewables_including_bioenergy_energy_annual_change_twh,float64,5624,13870,71.15,3328,Annual changes
+other_renewables_including_bioenergy_energy_per_capita_kwh,float64,5252,14242,73.06,3245,Per-capita indicators
+other_renewables_including_bioenergy_energy_share_pct,float64,5734,13760,70.59,3607,Energy-source shares
+other_renewables_including_bioenergy_energy_twh,float64,5740,13754,70.56,3218,Energy quantities (TWh)
+renewables_electricity_per_capita_kwh,float64,7701,11793,60.5,6547,"Electricity generation, demand and trade"
+renewables_electricity_share_pct,float64,7615,11879,60.94,5887,Electricity shares
+renewables_electricity_twh,float64,8463,11031,56.59,4492,"Electricity generation, demand and trade"
+renewables_energy_annual_change_pct,float64,5246,14248,73.09,5076,Annual changes
+renewables_energy_annual_change_twh,float64,5618,13876,71.18,5056,Annual changes
+renewables_energy_per_capita_kwh,float64,5246,14248,73.09,4866,Per-capita indicators
+renewables_energy_share_pct,float64,5734,13760,70.59,5273,Energy-source shares
+renewables_energy_twh,float64,5734,13760,70.59,5086,Energy quantities (TWh)
+solar_electricity_per_capita_kwh,float64,7774,11720,60.12,2788,"Electricity generation, demand and trade"
+solar_electricity_share_pct,float64,7627,11867,60.88,3073,Electricity shares
+solar_electricity_twh,float64,8536,10958,56.21,1199,"Electricity generation, demand and trade"
+solar_energy_annual_change_pct,float64,2309,17185,88.16,2026,Annual changes
+solar_energy_annual_change_twh,float64,5624,13870,71.15,2036,Annual changes
+solar_energy_per_capita_kwh,float64,5252,14242,73.06,2154,Per-capita indicators
+solar_energy_share_pct,float64,5734,13760,70.59,2382,Energy-source shares
+solar_energy_twh,float64,5740,13754,70.56,1993,Energy quantities (TWh)
+total_energy_annual_change_pct,float64,11415,8079,41.44,11067,Annual changes
+total_energy_annual_change_twh,float64,11587,7907,40.56,11044,Annual changes
+total_energy_per_capita_kwh,float64,11281,8213,42.13,11102,Per-capita indicators
+total_energy_per_gdp_kwh_per_dollar,float64,7884,11610,59.56,7883,Energy intensity
+total_energy_twh,float64,11848,7646,39.22,11249,Energy quantities (TWh)
+wind_electricity_per_capita_kwh,float64,7615,11879,60.94,2729,"Electricity generation, demand and trade"
+wind_electricity_share_pct,float64,7455,12039,61.76,3167,Electricity shares
+wind_electricity_twh,float64,8383,11111,57.0,1624,"Electricity generation, demand and trade"
+wind_energy_annual_change_pct,float64,2577,16917,86.78,2278,Annual changes
+wind_energy_annual_change_twh,float64,5624,13870,71.15,2265,Annual changes
+wind_energy_per_capita_kwh,float64,5252,14242,73.06,2368,Per-capita indicators
+wind_energy_share_pct,float64,5734,13760,70.59,2638,Energy-source shares
+wind_energy_twh,float64,5740,13754,70.56,2203,Energy quantities (TWh)

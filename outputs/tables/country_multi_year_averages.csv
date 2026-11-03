@@ -1,0 +1,1871 @@
+country,iso_code,mean,count,indicator,period
+Afghanistan,AFG,43.8642812,5,total_energy_twh,2020–2024; at least 3 observations
+Albania,ALB,24.491238000000003,5,total_energy_twh,2020–2024; at least 3 observations
+Algeria,DZA,724.24523,5,total_energy_twh,2020–2024; at least 3 observations
+American Samoa,ASM,1.94643236,5,total_energy_twh,2020–2024; at least 3 observations
+Angola,AGO,92.48609400000001,5,total_energy_twh,2020–2024; at least 3 observations
+Antarctica,ATA,0.050880955400000004,5,total_energy_twh,2020–2024; at least 3 observations
+Antigua and Barbuda,ATG,3.04468702,5,total_energy_twh,2020–2024; at least 3 observations
+Argentina,ARG,888.23518,5,total_energy_twh,2020–2024; at least 3 observations
+Armenia,ARM,47.6587058,5,total_energy_twh,2020–2024; at least 3 observations
+Aruba,ABW,4.82895902,5,total_energy_twh,2020–2024; at least 3 observations
+Australia,AUS,1506.36878,5,total_energy_twh,2020–2024; at least 3 observations
+Austria,AUT,313.419728,5,total_energy_twh,2020–2024; at least 3 observations
+Azerbaijan,AZE,200.47696200000001,5,total_energy_twh,2020–2024; at least 3 observations
+Bahamas,BHS,12.795426,5,total_energy_twh,2020–2024; at least 3 observations
+Bahrain,BHR,238.22428599999998,5,total_energy_twh,2020–2024; at least 3 observations
+Bangladesh,BGD,497.360664,5,total_energy_twh,2020–2024; at least 3 observations
+Barbados,BRB,6.12423872,5,total_energy_twh,2020–2024; at least 3 observations
+Belarus,BLR,306.628912,5,total_energy_twh,2020–2024; at least 3 observations
+Belgium,BEL,665.63012,5,total_energy_twh,2020–2024; at least 3 observations
+Belize,BLZ,3.80339618,5,total_energy_twh,2020–2024; at least 3 observations
+Benin,BEN,28.7657602,5,total_energy_twh,2020–2024; at least 3 observations
+Bermuda,BMU,2.28822446,5,total_energy_twh,2020–2024; at least 3 observations
+Bhutan,BTN,14.6033672,5,total_energy_twh,2020–2024; at least 3 observations
+Bolivia,BOL,100.72865420000001,5,total_energy_twh,2020–2024; at least 3 observations
+Bosnia and Herzegovina,BIH,77.0712264,5,total_energy_twh,2020–2024; at least 3 observations
+Botswana,BWA,24.504505599999998,5,total_energy_twh,2020–2024; at least 3 observations
+Brazil,BRA,2870.83008,5,total_energy_twh,2020–2024; at least 3 observations
+British Virgin Islands,VGB,0.773534292,5,total_energy_twh,2020–2024; at least 3 observations
+Brunei,BRN,55.4289136,5,total_energy_twh,2020–2024; at least 3 observations
+Bulgaria,BGR,203.924118,5,total_energy_twh,2020–2024; at least 3 observations
+Burkina Faso,BFA,23.0821248,5,total_energy_twh,2020–2024; at least 3 observations
+Burundi,BDI,3.8025484400000003,5,total_energy_twh,2020–2024; at least 3 observations
+Cambodia,KHM,70.13239899999999,5,total_energy_twh,2020–2024; at least 3 observations
+Cameroon,CMR,35.7390266,5,total_energy_twh,2020–2024; at least 3 observations
+Canada,CAN,3259.73968,5,total_energy_twh,2020–2024; at least 3 observations
+Cape Verde,CPV,2.9710908,5,total_energy_twh,2020–2024; at least 3 observations
+Cayman Islands,CYM,3.1874435599999997,5,total_energy_twh,2020–2024; at least 3 observations
+Central African Republic,CAF,1.77224936,5,total_energy_twh,2020–2024; at least 3 observations
+Chad,TCD,7.851082379999999,5,total_energy_twh,2020–2024; at least 3 observations
+Chile,CHL,415.007872,5,total_energy_twh,2020–2024; at least 3 observations
+China,CHN,40898.0732,5,total_energy_twh,2020–2024; at least 3 observations
+Colombia,COL,489.91198199999997,5,total_energy_twh,2020–2024; at least 3 observations
+Comoros,COM,1.49602878,5,total_energy_twh,2020–2024; at least 3 observations
+Congo,COG,22.9290498,5,total_energy_twh,2020–2024; at least 3 observations
+Cook Islands,COK,0.413447066,5,total_energy_twh,2020–2024; at least 3 observations
+Costa Rica,CRI,46.622192,5,total_energy_twh,2020–2024; at least 3 observations
+Cote d'Ivoire,CIV,73.577101,5,total_energy_twh,2020–2024; at least 3 observations
+Croatia,HRV,83.6123742,5,total_energy_twh,2020–2024; at least 3 observations
+Cuba,CUB,89.465611,5,total_energy_twh,2020–2024; at least 3 observations
+Cyprus,CYP,29.7118836,5,total_energy_twh,2020–2024; at least 3 observations
+Czechia,CZE,443.78577399999995,5,total_energy_twh,2020–2024; at least 3 observations
+Democratic Republic of Congo,COD,31.675207999999998,5,total_energy_twh,2020–2024; at least 3 observations
+Denmark,DNK,153.006312,5,total_energy_twh,2020–2024; at least 3 observations
+Djibouti,DJI,3.41885288,5,total_energy_twh,2020–2024; at least 3 observations
+Dominica,DMA,0.727142708,5,total_energy_twh,2020–2024; at least 3 observations
+Dominican Republic,DOM,124.698218,5,total_energy_twh,2020–2024; at least 3 observations
+East Timor,TLS,2.66337738,5,total_energy_twh,2020–2024; at least 3 observations
+Ecuador,ECU,176.836512,5,total_energy_twh,2020–2024; at least 3 observations
+Egypt,EGY,1034.0951,5,total_energy_twh,2020–2024; at least 3 observations
+El Salvador,SLV,42.285559,5,total_energy_twh,2020–2024; at least 3 observations
+Equatorial Guinea,GNQ,33.8813642,5,total_energy_twh,2020–2024; at least 3 observations
+Eritrea,ERI,2.84566406,5,total_energy_twh,2020–2024; at least 3 observations
+Estonia,EST,56.7895676,5,total_energy_twh,2020–2024; at least 3 observations
+Eswatini,SWZ,6.7182034,5,total_energy_twh,2020–2024; at least 3 observations
+Ethiopia,ETH,81.401647,5,total_energy_twh,2020–2024; at least 3 observations
+Falkland Islands,FLK,0.274633824,5,total_energy_twh,2020–2024; at least 3 observations
+Faroe Islands,FRO,3.59275716,5,total_energy_twh,2020–2024; at least 3 observations
+Fiji,FJI,8.114767220000001,5,total_energy_twh,2020–2024; at least 3 observations
+Finland,FIN,294.43464800000004,5,total_energy_twh,2020–2024; at least 3 observations
+France,FRA,2445.3544,5,total_energy_twh,2020–2024; at least 3 observations
+French Guiana,GUF,0.0,5,total_energy_twh,2020–2024; at least 3 observations
+French Polynesia,PYF,4.82458578,5,total_energy_twh,2020–2024; at least 3 observations
+Gabon,GAB,16.3903966,5,total_energy_twh,2020–2024; at least 3 observations
+Gambia,GMB,2.09035154,5,total_energy_twh,2020–2024; at least 3 observations
+Georgia,GEO,65.33575880000001,5,total_energy_twh,2020–2024; at least 3 observations
+Germany,DEU,3060.7455600000003,5,total_energy_twh,2020–2024; at least 3 observations
+Ghana,GHA,103.559878,5,total_energy_twh,2020–2024; at least 3 observations
+Greece,GRC,269.036022,5,total_energy_twh,2020–2024; at least 3 observations
+Greenland,GRL,2.64283774,5,total_energy_twh,2020–2024; at least 3 observations
+Grenada,GRD,1.49769544,5,total_energy_twh,2020–2024; at least 3 observations
+Guadeloupe,GLP,0.0,5,total_energy_twh,2020–2024; at least 3 observations
+Guam,GUM,4.95906382,5,total_energy_twh,2020–2024; at least 3 observations
+Guatemala,GTM,96.9580948,5,total_energy_twh,2020–2024; at least 3 observations
+Guinea,GIN,21.313041,5,total_energy_twh,2020–2024; at least 3 observations
+Guinea-Bissau,GNB,1.48760058,5,total_energy_twh,2020–2024; at least 3 observations
+Guyana,GUY,14.0480681,5,total_energy_twh,2020–2024; at least 3 observations
+Haiti,HTI,11.1531782,5,total_energy_twh,2020–2024; at least 3 observations
+Honduras,HND,51.7327766,5,total_energy_twh,2020–2024; at least 3 observations
+Hong Kong,HKG,248.51990800000004,5,total_energy_twh,2020–2024; at least 3 observations
+Hungary,HUN,265.37286800000004,5,total_energy_twh,2020–2024; at least 3 observations
+Iceland,ISL,84.50694100000001,5,total_energy_twh,2020–2024; at least 3 observations
+India,IND,9606.891599999999,5,total_energy_twh,2020–2024; at least 3 observations
+Indonesia,IDN,2638.85568,5,total_energy_twh,2020–2024; at least 3 observations
+Iran,IRN,3493.0693,5,total_energy_twh,2020–2024; at least 3 observations
+Iraq,IRQ,616.730028,5,total_energy_twh,2020–2024; at least 3 observations
+Ireland,IRL,160.672,5,total_energy_twh,2020–2024; at least 3 observations
+Israel,ISR,288.05807599999997,5,total_energy_twh,2020–2024; at least 3 observations
+Italy,ITA,1586.28326,5,total_energy_twh,2020–2024; at least 3 observations
+Jamaica,JAM,33.286307,5,total_energy_twh,2020–2024; at least 3 observations
+Japan,JPN,4712.031300000001,5,total_energy_twh,2020–2024; at least 3 observations
+Jordan,JOR,106.9013402,5,total_energy_twh,2020–2024; at least 3 observations
+Kazakhstan,KAZ,799.47242,5,total_energy_twh,2020–2024; at least 3 observations
+Kenya,KEN,87.9596672,5,total_energy_twh,2020–2024; at least 3 observations
+Kiribati,KIR,0.32362765,5,total_energy_twh,2020–2024; at least 3 observations
+Kuwait,KWT,477.354288,5,total_energy_twh,2020–2024; at least 3 observations
+Kyrgyzstan,KGZ,50.0029708,5,total_energy_twh,2020–2024; at least 3 observations
+Laos,LAO,72.743142,5,total_energy_twh,2020–2024; at least 3 observations
+Latvia,LVA,35.0086116,5,total_energy_twh,2020–2024; at least 3 observations
+Lebanon,LBN,78.0711096,5,total_energy_twh,2020–2024; at least 3 observations
+Lesotho,LSO,4.1181943400000005,5,total_energy_twh,2020–2024; at least 3 observations
+Liberia,LBR,2.9861420799999996,5,total_energy_twh,2020–2024; at least 3 observations
+Libya,LBY,219.26289000000003,5,total_energy_twh,2020–2024; at least 3 observations
+Lithuania,LTU,64.6735408,5,total_energy_twh,2020–2024; at least 3 observations
+Luxembourg,LUX,38.314374599999994,5,total_energy_twh,2020–2024; at least 3 observations
+Macao,MAC,12.9527556,5,total_energy_twh,2020–2024; at least 3 observations
+Madagascar,MDG,15.330142999999998,5,total_energy_twh,2020–2024; at least 3 observations
+Malawi,MWI,8.099630399999999,5,total_energy_twh,2020–2024; at least 3 observations
+Malaysia,MYS,1247.37772,5,total_energy_twh,2020–2024; at least 3 observations
+Maldives,MDV,6.85373158,5,total_energy_twh,2020–2024; at least 3 observations
+Mali,MLI,28.812716599999998,5,total_energy_twh,2020–2024; at least 3 observations
+Malta,MLT,37.431849,5,total_energy_twh,2020–2024; at least 3 observations
+Martinique,MTQ,0.0,5,total_energy_twh,2020–2024; at least 3 observations
+Mauritania,MRT,19.038878399999998,5,total_energy_twh,2020–2024; at least 3 observations
+Mauritius,MUS,22.300155,5,total_energy_twh,2020–2024; at least 3 observations
+Mexico,MEX,2120.28746,5,total_energy_twh,2020–2024; at least 3 observations
+Micronesia (country),FSM,0.6819243939999999,5,total_energy_twh,2020–2024; at least 3 observations
+Moldova,MDA,37.9435654,5,total_energy_twh,2020–2024; at least 3 observations
+Mongolia,MNG,65.1430902,5,total_energy_twh,2020–2024; at least 3 observations
+Montenegro,MNE,11.2530204,5,total_energy_twh,2020–2024; at least 3 observations
+Montserrat,MSR,0.1240457442,5,total_energy_twh,2020–2024; at least 3 observations
+Morocco,MAR,252.497424,5,total_energy_twh,2020–2024; at least 3 observations
+Mozambique,MOZ,54.3787696,5,total_energy_twh,2020–2024; at least 3 observations
+Myanmar,MMR,141.547848,5,total_energy_twh,2020–2024; at least 3 observations
+Namibia,NAM,18.7560136,5,total_energy_twh,2020–2024; at least 3 observations
+Nauru,NRU,0.33768993199999997,5,total_energy_twh,2020–2024; at least 3 observations
+Nepal,NPL,50.0775898,5,total_energy_twh,2020–2024; at least 3 observations
+Netherlands,NLD,908.582616,5,total_energy_twh,2020–2024; at least 3 observations
+Netherlands Antilles,ANT,27.2854726,5,total_energy_twh,2020–2024; at least 3 observations
+New Caledonia,NCL,17.3685996,5,total_energy_twh,2020–2024; at least 3 observations
+New Zealand,NZL,254.220514,5,total_energy_twh,2020–2024; at least 3 observations
+Nicaragua,NIC,25.3004326,5,total_energy_twh,2020–2024; at least 3 observations
+Niger,NER,13.1574356,5,total_energy_twh,2020–2024; at least 3 observations
+Nigeria,NGA,509.42973600000005,5,total_energy_twh,2020–2024; at least 3 observations
+Niue,NIU,0.033660417,5,total_energy_twh,2020–2024; at least 3 observations
+North Korea,PRK,192.570278,5,total_energy_twh,2020–2024; at least 3 observations
+North Macedonia,MKD,27.1723266,5,total_energy_twh,2020–2024; at least 3 observations
+Northern Mariana Islands,MNP,0.0,5,total_energy_twh,2020–2024; at least 3 observations
+Norway,NOR,310.563452,5,total_energy_twh,2020–2024; at least 3 observations
+Oman,OMN,412.90699400000005,5,total_energy_twh,2020–2024; at least 3 observations
+Pakistan,PAK,909.5139940000001,5,total_energy_twh,2020–2024; at least 3 observations
+Palestine,PSE,24.955554799999998,5,total_energy_twh,2020–2024; at least 3 observations
+Panama,PAN,97.782408,5,total_energy_twh,2020–2024; at least 3 observations
+Papua New Guinea,PNG,30.682214999999996,5,total_energy_twh,2020–2024; at least 3 observations
+Paraguay,PRY,51.3889192,5,total_energy_twh,2020–2024; at least 3 observations
+Peru,PER,278.65427,5,total_energy_twh,2020–2024; at least 3 observations
+Philippines,PHL,645.074514,5,total_energy_twh,2020–2024; at least 3 observations
+Poland,POL,1112.36662,5,total_energy_twh,2020–2024; at least 3 observations
+Portugal,PRT,221.116896,5,total_energy_twh,2020–2024; at least 3 observations
+Puerto Rico,PRI,79.744144,5,total_energy_twh,2020–2024; at least 3 observations
+Qatar,QAT,574.430746,5,total_energy_twh,2020–2024; at least 3 observations
+Reunion,REU,0.0,5,total_energy_twh,2020–2024; at least 3 observations
+Romania,ROU,332.750102,5,total_energy_twh,2020–2024; at least 3 observations
+Russia,RUS,8322.3246,5,total_energy_twh,2020–2024; at least 3 observations
+Rwanda,RWA,6.95920314,5,total_energy_twh,2020–2024; at least 3 observations
+Saint Helena,SHN,0.0429061992,5,total_energy_twh,2020–2024; at least 3 observations
+Saint Kitts and Nevis,KNA,1.10902328,5,total_energy_twh,2020–2024; at least 3 observations
+Saint Lucia,LCA,2.5321106799999997,5,total_energy_twh,2020–2024; at least 3 observations
+Saint Pierre and Miquelon,SPM,0.278264838,5,total_energy_twh,2020–2024; at least 3 observations
+Saint Vincent and the Grenadines,VCT,1.08372474,5,total_energy_twh,2020–2024; at least 3 observations
+Samoa,WSM,1.36743156,5,total_energy_twh,2020–2024; at least 3 observations
+Sao Tome and Principe,STP,0.656785312,5,total_energy_twh,2020–2024; at least 3 observations
+Saudi Arabia,SAU,3089.73022,5,total_energy_twh,2020–2024; at least 3 observations
+Senegal,SEN,45.8973882,5,total_energy_twh,2020–2024; at least 3 observations
+Serbia,SRB,177.744058,5,total_energy_twh,2020–2024; at least 3 observations
+Seychelles,SYC,3.73983906,5,total_energy_twh,2020–2024; at least 3 observations
+Sierra Leone,SLE,6.35663598,5,total_energy_twh,2020–2024; at least 3 observations
+Singapore,SGP,952.76739,5,total_energy_twh,2020–2024; at least 3 observations
+Slovakia,SVK,184.04083,5,total_energy_twh,2020–2024; at least 3 observations
+Slovenia,SVN,69.74146879999999,5,total_energy_twh,2020–2024; at least 3 observations
+Solomon Islands,SLB,1.2936254,5,total_energy_twh,2020–2024; at least 3 observations
+Somalia,SOM,6.26326172,5,total_energy_twh,2020–2024; at least 3 observations
+South Africa,ZAF,1343.4943600000001,5,total_energy_twh,2020–2024; at least 3 observations
+South Korea,KOR,3580.3064,5,total_energy_twh,2020–2024; at least 3 observations
+South Sudan,SSD,7.042477700000001,5,total_energy_twh,2020–2024; at least 3 observations
+Spain,ESP,1374.183,5,total_energy_twh,2020–2024; at least 3 observations
+Sri Lanka,LKA,90.331199,5,total_energy_twh,2020–2024; at least 3 observations
+Sudan,SDN,77.15975879999999,5,total_energy_twh,2020–2024; at least 3 observations
+Suriname,SUR,10.252349599999999,5,total_energy_twh,2020–2024; at least 3 observations
+Sweden,SWE,473.719668,5,total_energy_twh,2020–2024; at least 3 observations
+Switzerland,CHE,254.49965200000003,5,total_energy_twh,2020–2024; at least 3 observations
+Syria,SYR,113.219032,5,total_energy_twh,2020–2024; at least 3 observations
+Taiwan,TWN,1267.90646,5,total_energy_twh,2020–2024; at least 3 observations
+Tajikistan,TJK,49.0882312,5,total_energy_twh,2020–2024; at least 3 observations
+Tanzania,TZA,71.222348,5,total_energy_twh,2020–2024; at least 3 observations
+Thailand,THA,1392.09666,5,total_energy_twh,2020–2024; at least 3 observations
+Togo,TGO,11.8456084,5,total_energy_twh,2020–2024; at least 3 observations
+Tonga,TON,0.8243787059999999,5,total_energy_twh,2020–2024; at least 3 observations
+Trinidad and Tobago,TTO,168.187384,5,total_energy_twh,2020–2024; at least 3 observations
+Tunisia,TUN,120.87975320000001,5,total_energy_twh,2020–2024; at least 3 observations
+Turkey,TUR,1847.1279399999999,5,total_energy_twh,2020–2024; at least 3 observations
+Turkmenistan,TKM,422.88994599999995,5,total_energy_twh,2020–2024; at least 3 observations
+Turks and Caicos Islands,TCA,1.8880153400000002,5,total_energy_twh,2020–2024; at least 3 observations
+Tuvalu,TUV,0.0,5,total_energy_twh,2020–2024; at least 3 observations
+Uganda,UGA,30.364687200000002,5,total_energy_twh,2020–2024; at least 3 observations
+Ukraine,UKR,768.1335799999999,5,total_energy_twh,2020–2024; at least 3 observations
+United Arab Emirates,ARE,1294.45848,5,total_energy_twh,2020–2024; at least 3 observations
+United Kingdom,GBR,1827.74458,5,total_energy_twh,2020–2024; at least 3 observations
+United States,USA,25131.8298,5,total_energy_twh,2020–2024; at least 3 observations
+United States Virgin Islands,VIR,9.583058,5,total_energy_twh,2020–2024; at least 3 observations
+Uruguay,URY,50.3105116,5,total_energy_twh,2020–2024; at least 3 observations
+Uzbekistan,UZB,564.822376,5,total_energy_twh,2020–2024; at least 3 observations
+Vanuatu,VUT,1.20199252,5,total_energy_twh,2020–2024; at least 3 observations
+Venezuela,VEN,516.849418,5,total_energy_twh,2020–2024; at least 3 observations
+Vietnam,VNM,1108.15318,5,total_energy_twh,2020–2024; at least 3 observations
+Western Sahara,ESH,1.13582974,5,total_energy_twh,2020–2024; at least 3 observations
+Yemen,YEM,61.1199062,5,total_energy_twh,2020–2024; at least 3 observations
+Zambia,ZMB,44.3509028,5,total_energy_twh,2020–2024; at least 3 observations
+Zimbabwe,ZWE,49.746399600000004,5,total_energy_twh,2020–2024; at least 3 observations
+Afghanistan,AFG,1079.663294,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Albania,ALB,8657.4882,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Algeria,DZA,15920.5666,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+American Samoa,ASM,40349.9754,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Angola,AGO,2589.1091800000004,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Antigua and Barbuda,ATG,32792.962,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Argentina,ARG,19550.425199999998,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Armenia,ARM,16364.664999999999,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Aruba,ABW,44810.8888,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Australia,AUS,57465.1674,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Austria,AUT,34675.694,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Azerbaijan,AZE,19509.938000000002,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Bahamas,BHS,32129.639199999998,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Bahrain,BHR,154835.84399999998,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Bangladesh,BGD,2930.24388,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Barbados,BRB,21700.4938,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Belarus,BLR,33382.2974,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Belgium,BEL,57197.1596,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Belize,BLZ,9415.5636,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Benin,BEN,2090.86848,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Bermuda,BMU,35391.970199999996,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Bhutan,BTN,18670.5062,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Bolivia,BOL,8310.860999999999,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Bosnia and Herzegovina,BIH,23999.425,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Botswana,BWA,10033.634600000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Brazil,BRA,13646.2062,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+British Virgin Islands,VGB,20161.5066,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Brunei,BRN,121804.38500000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Bulgaria,BGR,29820.119400000003,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Burkina Faso,BFA,1024.082666,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Burundi,BDI,285.326266,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Cambodia,KHM,4070.7156999999997,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Cameroon,CMR,1295.79234,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Canada,CAN,83806.302,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Cape Verde,CPV,5716.02736,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Cayman Islands,CYM,44448.2574,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Central African Republic,CAF,344.34447800000004,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Chad,TCD,422.971282,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Chile,CHL,21214.4988,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+China,CHN,28724.9526,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Colombia,COL,9459.9712,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Comoros,COM,1790.1814200000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Congo,COG,3794.9771200000005,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Cook Islands,COK,28354.8778,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Costa Rica,CRI,9169.70426,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Cote d'Ivoire,CIV,2410.5194600000004,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Croatia,HRV,21381.5794,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Cuba,CUB,8078.8844,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Cyprus,CYP,22314.5498,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Czechia,CZE,41652.35400000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Democratic Republic of Congo,COD,308.545142,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Denmark,DNK,25921.0366,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Djibouti,DJI,3006.4188,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Dominica,DMA,10875.939600000002,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Dominican Republic,DOM,11095.7634,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+East Timor,TLS,1949.4093399999997,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Ecuador,ECU,9906.0246,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Egypt,EGY,9164.5898,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+El Salvador,SLV,6724.932940000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Equatorial Guinea,GNQ,18798.31,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Eritrea,ERI,833.0406579999999,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Estonia,EST,42153.5158,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Eswatini,SWZ,5514.7996,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Ethiopia,ETH,647.5529280000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Falkland Islands,FLK,78348.3292,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Faroe Islands,FRO,66529.34599999999,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Fiji,FJI,8803.48778,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Finland,FIN,52842.172600000005,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+France,FRA,36912.1766,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+French Guiana,GUF,0.0,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+French Polynesia,PYF,17192.591999999997,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Gabon,GAB,6743.255800000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Gambia,GMB,791.304488,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Georgia,GEO,17197.326,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Germany,DEU,36405.529800000004,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Ghana,GHA,3121.2483,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Greece,GRC,25910.6346,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Greenland,GRL,47195.2006,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Grenada,GRD,12813.6986,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Guadeloupe,GLP,0.0,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Guam,GUM,29991.293199999996,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Guatemala,GTM,5426.6971,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Guinea,GIN,1516.85394,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Guinea-Bissau,GNB,706.562762,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Guyana,GUY,17098.9602,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Haiti,HTI,973.97449,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Honduras,HND,4933.03702,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Hong Kong,HKG,33319.6654,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Hungary,HUN,27353.7024,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Iceland,ISL,222310.242,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+India,IND,6729.52886,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Indonesia,IDN,9446.09164,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Iran,IRN,38985.315599999994,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Iraq,IRQ,13968.832199999999,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Ireland,IRL,31425.408799999997,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Israel,ISR,31665.2478,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Italy,ITA,26606.013199999998,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Jamaica,JAM,11730.6408,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Japan,JPN,37689.9416,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Jordan,JOR,9512.9205,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Kazakhstan,KAZ,39873.914000000004,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Kenya,KEN,1619.34672,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Kiribati,KIR,2480.38534,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Kuwait,KWT,103135.45800000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Kyrgyzstan,KGZ,7188.57508,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Laos,LAO,9611.5442,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Latvia,LVA,18574.8598,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Lebanon,LBN,13590.881,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Lesotho,LSO,1800.6393,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Liberia,LBR,554.851608,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Libya,LBY,30340.8056,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Lithuania,LTU,22906.3612,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Luxembourg,LUX,58826.015,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Macao,MAC,18415.969,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Madagascar,MDG,502.501328,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Malawi,MWI,393.610932,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Malaysia,MYS,35917.5494,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Maldives,MDV,13168.655300000002,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Mali,MLI,1249.79532,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Malta,MLT,70807.831,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Martinique,MTQ,0.0,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Mauritania,MRT,3903.00078,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Mauritius,MUS,17468.3008,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Mexico,MEX,16465.9414,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Micronesia (country),FSM,6082.837399999999,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Moldova,MDA,12457.560800000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Mongolia,MNG,19221.215600000003,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Montenegro,MNE,18152.988,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Montserrat,MSR,27782.244599999998,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Morocco,MAR,6761.41822,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Mozambique,MOZ,1660.3429,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Myanmar,MMR,2634.6119,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Namibia,NAM,6512.9704,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Nauru,NRU,28562.7202,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Nepal,NPL,1696.82248,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Netherlands,NLD,50739.6468,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+New Caledonia,NCL,60402.205,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+New Zealand,NZL,49471.1718,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Nicaragua,NIC,3754.0080000000003,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Niger,NER,518.5974699999999,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Nigeria,NGA,2283.0925199999997,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Niue,NIU,18324.707000000002,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+North Korea,PRK,7317.19752,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+North Macedonia,MKD,14743.9957,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Northern Mariana Islands,MNP,0.0,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Norway,NOR,56814.501800000005,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Oman,OMN,85694.0588,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Pakistan,PAK,3742.21702,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Palestine,PSE,4705.99654,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Panama,PAN,22187.798600000002,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Papua New Guinea,PNG,3006.0173,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Paraguay,PRY,7598.9913400000005,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Peru,PER,8307.29968,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Philippines,PHL,5654.726420000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Poland,POL,28990.9536,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Portugal,PRT,21247.7026,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Puerto Rico,PRI,24537.1528,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Qatar,QAT,197303.474,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Reunion,REU,0.0,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Romania,ROU,17339.571600000003,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Russia,RUS,57162.9948,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Rwanda,RWA,508.28386200000006,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Saint Helena,SHN,8004.63312,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Saint Kitts and Nevis,KNA,23690.8936,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Saint Lucia,LCA,14150.344200000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Saint Pierre and Miquelon,SPM,48384.3022,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Saint Vincent and the Grenadines,VCT,10621.339199999999,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Samoa,WSM,6353.94684,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Sao Tome and Principe,STP,2899.0833,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Saudi Arabia,SAU,95495.676,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Senegal,SEN,2595.9895,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Serbia,SRB,26103.205599999998,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Seychelles,SYC,29785.7374,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Sierra Leone,SLE,766.707974,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Singapore,SGP,167467.604,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Slovakia,SVK,33592.8592,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Slovenia,SVN,32997.653600000005,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Solomon Islands,SLB,1656.84654,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Somalia,SOM,351.144428,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+South Africa,ZAF,21555.7728,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+South Korea,KOR,69131.005,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+South Sudan,SSD,629.1267,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Spain,ESP,28739.1858,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Sri Lanka,LKA,3956.39654,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Sudan,SDN,1580.4460800000002,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Suriname,SUR,16450.0604,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Sweden,SWE,45194.6304,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Switzerland,CHE,28958.8828,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Syria,SYR,5002.58114,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Taiwan,TWN,54094.61140000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Tajikistan,TJK,4821.00054,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Tanzania,TZA,1096.9807720000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Thailand,THA,19417.006199999996,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Togo,TGO,1462.90444,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Tonga,TON,7852.46532,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Trinidad and Tobago,TTO,112513.79280000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Tunisia,TUN,9969.1098,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Turkey,TUR,21248.091200000003,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Turkmenistan,TKM,58591.340599999996,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Turks and Caicos Islands,TCA,41351.132,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Tuvalu,TUV,0.0,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Uganda,UGA,642.168996,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Ukraine,UKR,18516.215600000003,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+United Arab Emirates,ARE,126430.91200000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+United Kingdom,GBR,26805.618599999998,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+United States,USA,73478.74100000001,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+United States Virgin Islands,VIR,110921.831,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Uruguay,URY,14832.0724,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Uzbekistan,UZB,16161.034399999999,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Vanuatu,VUT,3831.95324,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Venezuela,VEN,18252.4424,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Vietnam,VNM,11118.3118,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Western Sahara,ESH,1993.0274400000003,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Yemen,YEM,1599.12354,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Zambia,ZMB,2192.60708,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Zimbabwe,ZWE,3078.43014,5,total_energy_per_capita_kwh,2020–2024; at least 3 observations
+Afghanistan,AFG,0.78098415,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Albania,ALB,0.7012108,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Algeria,DZA,1.2026706,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Angola,AGO,0.5649414133333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Argentina,ARG,1.0975491333333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Armenia,ARM,1.295783,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Australia,AUS,1.1576067333333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Austria,AUT,0.8341878,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Azerbaijan,AZE,1.1669308666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Bahrain,BHR,4.145605933333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Bangladesh,BGD,0.6017416333333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Barbados,BRB,1.7983290666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Belarus,BLR,1.674188,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Belgium,BEL,1.4670705,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Benin,BEN,0.8777829266666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Bolivia,BOL,1.2293003999999998,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Bosnia and Herzegovina,BIH,1.5717234999999998,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Botswana,BWA,0.6798679566666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Brazil,BRA,0.9060655533333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Bulgaria,BGR,1.6060085,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Burkina Faso,BFA,0.6102363466666666,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Burundi,BDI,0.4192435766666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Cambodia,KHM,1.0030595333333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Cameroon,CMR,0.4586968933333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Canada,CAN,1.9110741999999998,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Cape Verde,CPV,0.78070759,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Central African Republic,CAF,0.46135084666666665,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Chad,TCD,0.3348007833333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Chile,CHL,0.9707268566666666,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+China,CHN,1.5223681666666666,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Colombia,COL,0.6901742666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Comoros,COM,0.8928756133333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Congo,COG,0.9612455533333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Costa Rica,CRI,0.5811273966666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Cote d'Ivoire,CIV,0.5843859466666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Croatia,HRV,0.8667914266666666,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Cuba,CUB,1.1224956333333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Cyprus,CYP,0.8915060666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Czechia,CZE,1.3842682999999998,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Democratic Republic of Congo,COD,0.35008666666666666,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Denmark,DNK,0.5373618333333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Djibouti,DJI,1.0340311333333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Dominica,DMA,1.1029509,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Dominican Republic,DOM,0.6538318166666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Ecuador,ECU,0.9788563,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Egypt,EGY,0.7285328733333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+El Salvador,SLV,0.68420178,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Equatorial Guinea,GNQ,1.7188080666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Estonia,EST,1.5011058000000002,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Eswatini,SWZ,0.69726299,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Ethiopia,ETH,0.3000478733333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Finland,FIN,1.3175143666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+France,FRA,0.9537805033333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Gabon,GAB,0.4561485966666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Gambia,GMB,0.4441054133333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Georgia,GEO,0.9733783433333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Germany,DEU,0.8436513866666666,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Ghana,GHA,0.7111830533333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Greece,GRC,1.0717938333333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Guatemala,GTM,0.6923717533333332,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Guinea,GIN,0.93419847,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Guinea-Bissau,GNB,0.47931631333333335,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Haiti,HTI,0.7749468,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Honduras,HND,1.0308969,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Hong Kong,HKG,0.6706515966666666,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Hungary,HUN,1.0156277333333332,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Iceland,ISL,5.4798069,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+India,IND,0.9231432466666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Indonesia,IDN,0.7247983766666666,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Iran,IRN,2.2510993999999998,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Iraq,IRQ,1.1820700333333332,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Ireland,IRL,0.5573076133333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Israel,ISR,0.9086570566666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Italy,ITA,0.7910241666666668,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Jamaica,JAM,1.6311640666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Japan,JPN,1.0108657666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Jordan,JOR,1.0972841333333332,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Kazakhstan,KAZ,1.5854474333333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Kenya,KEN,0.4756138833333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Kuwait,KWT,2.1943059666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Kyrgyzstan,KGZ,1.5348703666666665,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Laos,LAO,1.2725119333333332,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Latvia,LVA,0.7247839866666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Lebanon,LBN,1.6510483,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Lesotho,LSO,0.87853395,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Liberia,LBR,0.7108336233333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Libya,LBY,2.2600491000000003,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Lithuania,LTU,0.7927836333333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Luxembourg,LUX,1.1323872,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Madagascar,MDG,0.3967071166666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Malawi,MWI,0.30575333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Malaysia,MYS,1.4743928000000002,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Mali,MLI,0.98031718,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Malta,MLT,2.188645333333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Mauritania,MRT,1.2634312,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Mauritius,MUS,0.8571922166666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Mexico,MEX,1.0539783666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Moldova,MDA,1.7166289666666668,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Mongolia,MNG,1.3649263333333332,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Montenegro,MNE,0.9285652766666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Morocco,MAR,0.8200753933333335,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Mozambique,MOZ,1.6897833,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Myanmar,MMR,0.47613024666666665,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Namibia,NAM,0.8868720533333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Nepal,NPL,0.5399278166666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Netherlands,NLD,1.1148014999999998,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+New Zealand,NZL,1.3091274000000002,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Nicaragua,NIC,0.7931637333333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Niger,NER,0.5380991333333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Nigeria,NGA,0.46512685000000004,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+North Korea,PRK,4.8047836,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+North Macedonia,MKD,0.9517361333333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Norway,NOR,0.6703258733333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Oman,OMN,2.2983098666666666,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Pakistan,PAK,0.7489218000000001,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Palestine,PSE,1.02720828,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Panama,PAN,1.1063408,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Paraguay,PRY,0.8137555333333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Peru,PER,0.8153333466666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Philippines,PHL,0.6333542666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Poland,POL,0.9809434866666668,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Portugal,PRT,0.8067326333333332,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Puerto Rico,PRI,0.6630482999999999,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Qatar,QAT,1.4696743666666665,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Romania,ROU,0.6834064999999999,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Russia,RUS,2.1849279333333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Rwanda,RWA,0.24084078666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Saint Lucia,LCA,1.6171322000000001,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Sao Tome and Principe,STP,0.76350493,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Saudi Arabia,SAU,1.7602172000000003,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Senegal,SEN,0.8748921566666666,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Serbia,SRB,1.6114640333333332,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Seychelles,SYC,1.1966265999999999,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Sierra Leone,SLE,0.5345026433333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Singapore,SGP,2.112838266666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Slovakia,SVK,1.2598904333333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Slovenia,SVN,1.0789406666666668,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+South Africa,ZAF,1.8837158333333335,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+South Korea,KOR,1.7130776666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Spain,ESP,0.8817219399999999,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Sri Lanka,LKA,0.3347399933333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Sweden,SWE,1.0044843666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Switzerland,CHE,0.4555742933333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Syria,SYR,2.055584233333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Taiwan,TWN,1.0867128000000001,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Tajikistan,TJK,1.0163216166666666,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Tanzania,TZA,0.34942009999999996,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Thailand,THA,1.2546736,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Togo,TGO,0.8225218766666668,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Trinidad and Tobago,TTO,4.640042833333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Tunisia,TUN,0.9533506733333333,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Turkey,TUR,0.81622058,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Turkmenistan,TKM,4.562780133333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Uganda,UGA,0.30505877,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Ukraine,UKR,2.1786626000000004,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+United Arab Emirates,ARE,1.6696317666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+United Kingdom,GBR,0.7501787666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+United States,USA,1.3207172666666667,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Uruguay,URY,0.736881,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Uzbekistan,UZB,1.5055379333333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Venezuela,VEN,3.3637657,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Vietnam,VNM,1.3216481333333334,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Yemen,YEM,1.022945,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Zambia,ZMB,0.6056369,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Zimbabwe,ZWE,1.7059467000000001,3,total_energy_per_gdp_kwh_per_dollar,2020–2024; at least 3 observations
+Afghanistan,AFG,87.4982632,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Albania,ALB,100.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Algeria,DZA,1.002640652,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+American Samoa,ASM,2.22222212,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Angola,AGO,74.8672252,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Antigua and Barbuda,ATG,6.12955812,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Argentina,ARG,29.536959799999998,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Armenia,ARM,30.2729316,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Aruba,ABW,17.0343434,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Australia,AUS,31.011958399999997,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Austria,AUT,81.71533919999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Azerbaijan,AZE,7.046186399999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Bahamas,BHS,0.7504565839999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Bahrain,BHR,0.18115748780000002,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Bangladesh,BGD,1.6047557600000002,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Barbados,BRB,7.736244000000001,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Belarus,BLR,3.2516337999999996,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Belgium,BEL,28.8025936,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Belize,BLZ,87.620888,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Benin,BEN,2.3521221,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Bermuda,BMU,1.63579528,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Bhutan,BTN,100.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Bolivia,BOL,35.4260354,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Bosnia and Herzegovina,BIH,36.731091400000004,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Botswana,BWA,0.370417932,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Brazil,BRA,84.9139598,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+British Virgin Islands,VGB,0.0,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Brunei,BRN,0.03597122,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Bulgaria,BGR,22.9186202,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Burkina Faso,BFA,17.1034574,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Burundi,BDI,73.1294844,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Cambodia,KHM,51.4250688,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Cameroon,CMR,66.866423,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Canada,CAN,66.227187,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Cape Verde,CPV,24.40811,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Cayman Islands,CYM,3.1390664,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Central African Republic,CAF,100.0,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Chad,TCD,5.29092284,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Chile,CHL,57.168076,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+China,CHN,30.252951199999995,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Colombia,COL,68.6164,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Comoros,COM,0.0,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Congo,COG,23.8829614,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Cook Islands,COK,45.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Costa Rica,CRI,99.93062119999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Cote d'Ivoire,CIV,28.1695786,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Croatia,HRV,68.2725624,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Cuba,CUB,4.220617280000001,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Cyprus,CYP,17.7585478,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Czechia,CZE,14.015926799999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Democratic Republic of Congo,COD,99.983988,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Denmark,DNK,83.555913,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Djibouti,DJI,28.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Dominica,DMA,13.809523,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Dominican Republic,DOM,17.700916799999998,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+East Timor,TLS,0.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Ecuador,ECU,76.5824682,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Egypt,EGY,11.7551584,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+El Salvador,SLV,88.039854,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Equatorial Guinea,GNQ,30.145629800000002,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Eritrea,ERI,11.355743,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Estonia,EST,45.057514600000005,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Eswatini,SWZ,96.4102862,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Ethiopia,ETH,99.987196,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Falkland Islands,FLK,0.0,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Faroe Islands,FRO,42.832845,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Fiji,FJI,62.5862604,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Finland,FIN,53.2305974,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+France,FRA,24.8335892,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+French Guiana,GUF,64.904935,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+French Polynesia,PYF,32.2837536,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Gabon,GAB,42.8590622,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Gambia,GMB,0.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Georgia,GEO,77.6063534,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Germany,DEU,48.4482696,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Ghana,GHA,36.5838944,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Gibraltar,GIB,0.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Greece,GRC,44.0487962,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Greenland,GRL,83.8687228,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Grenada,GRD,0.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Guadeloupe,GLP,31.984505249999998,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Guam,GUM,6.68675388,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Guatemala,GTM,73.9021152,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Guinea,GIN,71.63002320000001,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Guinea-Bissau,GNB,0.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Guyana,GUY,2.85624048,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Haiti,HTI,17.223264399999998,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Honduras,HND,57.1065574,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Hong Kong,HKG,0.836080284,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Hungary,HUN,22.8447852,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Iceland,ISL,100.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+India,IND,19.4165096,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Indonesia,IDN,18.517566,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Iran,IRN,5.571652299999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Iraq,IRQ,2.41460388,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Ireland,IRL,42.0988882,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Israel,ISR,9.8542068,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Italy,ITA,42.7114306,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Jamaica,JAM,12.959385399999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Japan,JPN,20.9537778,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Jordan,JOR,22.2187404,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Kazakhstan,KAZ,12.3162342,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Kenya,KEN,90.49069019999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Kiribati,KIR,25.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Kuwait,KWT,1.394829968,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Kyrgyzstan,KGZ,87.54682,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Laos,LAO,74.940236,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Latvia,LVA,70.8746206,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Lebanon,LBN,27.891694199999996,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Lesotho,LSO,100.0,3,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Liberia,LBR,41.639153,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Libya,LBY,0.029932766,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Lithuania,LTU,71.6880482,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Luxembourg,LUX,85.2073168,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Macao,MAC,36.169492,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Madagascar,MDG,39.1016068,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Malawi,MWI,96.388442,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Malaysia,MYS,19.165939,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Maldives,MDV,6.401379800000001,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Mali,MLI,32.413960200000005,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Malta,MLT,13.195136999999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Martinique,MTQ,24.958635,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Mauritania,MRT,25.7981612,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Mauritius,MUS,20.08273,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Mexico,MEX,22.4203654,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Moldova,MDA,8.4630063,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Mongolia,MNG,9.8429076,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Montenegro,MNE,57.507514400000005,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Montserrat,MSR,0.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Morocco,MAR,20.6581006,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Mozambique,MOZ,83.4310452,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Myanmar,MMR,46.6458778,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Namibia,NAM,97.5560828,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Nauru,NRU,4.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Nepal,NPL,100.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Netherlands,NLD,39.701505000000004,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+New Caledonia,NCL,23.4855548,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+New Zealand,NZL,85.03727599999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Nicaragua,NIC,65.58822219999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Niger,NER,2.71067432,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Nigeria,NGA,22.7209642,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+North Korea,PRK,61.19695420000001,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+North Macedonia,MKD,31.238726199999995,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Norway,NOR,98.711363,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Oman,OMN,3.24542048,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Pakistan,PAK,31.218818,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Palestine,PSE,31.6663338,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Panama,PAN,71.979579,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Papua New Guinea,PNG,24.1062648,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Paraguay,PRY,100.0,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Peru,PER,58.957488999999995,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Philippines,PHL,21.484286599999997,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Poland,POL,23.0025852,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Portugal,PRT,68.3850964,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Puerto Rico,PRI,5.0775694399999995,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Qatar,QAT,1.8951555240000002,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Reunion,REU,36.738206250000005,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Romania,ROU,45.802427,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Russia,RUS,18.4757538,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Rwanda,RWA,55.6524172,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Saint Helena,SHN,0.0,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Saint Kitts and Nevis,KNA,5.375494000000001,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Saint Lucia,LCA,2.5263158,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Saint Pierre and Miquelon,SPM,0.0,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Saint Vincent and the Grenadines,VCT,13.523808400000002,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Samoa,WSM,42.6895418,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Sao Tome and Principe,STP,10.101009999999999,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Saudi Arabia,SAU,0.8491993040000001,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Senegal,SEN,18.7072422,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Serbia,SRB,31.207438000000003,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Seychelles,SYC,14.020603,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Sierra Leone,SLE,95.09524,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Singapore,SGP,3.85456396,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Slovakia,SVK,23.1049152,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Slovenia,SVN,36.0046218,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Solomon Islands,SLB,5.4545454,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Somalia,SOM,15.531979000000002,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+South Africa,ZAF,9.767273939999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+South Korea,KOR,8.6205836,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+South Sudan,SSD,1.81446264,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Spain,ESP,48.3906162,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Sri Lanka,LKA,47.8227552,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Sudan,SDN,71.98004499999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Suriname,SUR,49.4441132,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Sweden,SWE,68.587766,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Switzerland,CHE,63.5436416,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Syria,SYR,3.8219815399999995,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Taiwan,TWN,7.53423566,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Tajikistan,TJK,92.33051880000001,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Tanzania,TZA,33.603995399999995,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Thailand,THA,15.094877,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Togo,TGO,22.7254686,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Tonga,TON,13.928571199999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Trinidad and Tobago,TTO,0.1062468858,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Tunisia,TUN,3.5241630600000002,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Turkey,TUR,41.4193272,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Turkmenistan,TKM,0.025370963200000003,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Turks and Caicos Islands,TCA,0.74074068,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Uganda,UGA,97.2887096,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Ukraine,UKR,13.910671666666667,3,renewables_electricity_share_pct,2020–2024; at least 3 observations
+United Arab Emirates,ARE,6.10415026,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+United Kingdom,GBR,44.2967098,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+United States,USA,22.030272,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+United States Virgin Islands,VIR,2.6187888999999998,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Uruguay,URY,92.14775,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Uzbekistan,UZB,9.9244259,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Vanuatu,VUT,27.083333,4,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Venezuela,VEN,83.35196599999999,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Vietnam,VNM,42.455063,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Yemen,YEM,14.4031958,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Zambia,ZMB,88.57187400000001,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Zimbabwe,ZWE,61.9780136,5,renewables_electricity_share_pct,2020–2024; at least 3 observations
+Afghanistan,AFG,87.4982632,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Albania,ALB,100.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Algeria,DZA,1.002640652,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+American Samoa,ASM,2.22222212,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Angola,AGO,74.8672252,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Antigua and Barbuda,ATG,6.12955812,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Argentina,ARG,35.8518736,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Armenia,ARM,58.693453,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Aruba,ABW,17.0343434,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Australia,AUS,31.011958399999997,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Austria,AUT,81.71533919999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Azerbaijan,AZE,7.046186399999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Bahamas,BHS,0.7504565839999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Bahrain,BHR,0.18115748780000002,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Bangladesh,BGD,1.6047557600000002,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Barbados,BRB,7.736244000000001,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Belarus,BLR,21.21702672,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Belgium,BEL,72.2737572,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Belize,BLZ,87.620888,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Benin,BEN,2.3521221,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Bermuda,BMU,1.63579528,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Bhutan,BTN,100.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Bolivia,BOL,35.4260354,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Bosnia and Herzegovina,BIH,36.731091400000004,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Botswana,BWA,0.370417932,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Brazil,BRA,87.07155399999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+British Virgin Islands,VGB,0.0,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Brunei,BRN,0.03597122,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Bulgaria,BGR,61.04036240000001,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Burkina Faso,BFA,17.1034574,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Burundi,BDI,73.1294844,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Cambodia,KHM,51.4250688,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Cameroon,CMR,66.866423,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Canada,CAN,80.0711628,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Cape Verde,CPV,24.40811,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Cayman Islands,CYM,3.1390664,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Central African Republic,CAF,100.0,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Chad,TCD,5.29092284,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Chile,CHL,57.168076,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+China,CHN,34.9070476,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Colombia,COL,68.6164,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Comoros,COM,0.0,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Congo,COG,23.8829614,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Cook Islands,COK,45.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Costa Rica,CRI,99.93062119999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Cote d'Ivoire,CIV,28.1695786,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Croatia,HRV,68.2725624,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Cuba,CUB,4.220617280000001,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Cyprus,CYP,17.7585478,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Czechia,CZE,52.4544508,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Democratic Republic of Congo,COD,99.983988,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Denmark,DNK,83.555913,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Djibouti,DJI,28.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Dominica,DMA,13.809523,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Dominican Republic,DOM,17.700916799999998,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+East Timor,TLS,0.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Ecuador,ECU,76.5824682,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Egypt,EGY,11.7551584,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+El Salvador,SLV,88.039854,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Equatorial Guinea,GNQ,30.145629800000002,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Eritrea,ERI,11.355743,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Estonia,EST,45.057514600000005,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Eswatini,SWZ,96.4102862,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Ethiopia,ETH,99.987196,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Falkland Islands,FLK,0.0,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Faroe Islands,FRO,42.832845,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Fiji,FJI,62.5862604,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Finland,FIN,89.8415968,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+France,FRA,91.209126,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+French Guiana,GUF,64.904935,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+French Polynesia,PYF,32.2837536,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Gabon,GAB,42.8590622,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Gambia,GMB,0.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Georgia,GEO,77.6063534,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Germany,DEU,54.6183498,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Ghana,GHA,36.5838944,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Gibraltar,GIB,0.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Greece,GRC,44.0487962,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Greenland,GRL,83.8687228,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Grenada,GRD,0.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Guadeloupe,GLP,31.984505249999998,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Guam,GUM,6.68675388,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Guatemala,GTM,73.9021152,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Guinea,GIN,71.63002320000001,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Guinea-Bissau,GNB,0.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Guyana,GUY,2.85624048,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Haiti,HTI,17.223264399999998,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Honduras,HND,57.1065574,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Hong Kong,HKG,0.836080284,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Hungary,HUN,67.1295172,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Iceland,ISL,100.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+India,IND,22.062074000000003,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Indonesia,IDN,18.517566,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Iran,IRN,7.22274812,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Iraq,IRQ,2.41460388,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Ireland,IRL,42.0988882,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Israel,ISR,9.8542068,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Italy,ITA,42.7114306,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Jamaica,JAM,12.959385399999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Japan,JPN,27.192458999999996,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Jordan,JOR,22.2187404,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Kazakhstan,KAZ,12.3162342,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Kenya,KEN,90.49069019999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Kiribati,KIR,25.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Kuwait,KWT,1.394829968,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Kyrgyzstan,KGZ,87.54682,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Laos,LAO,74.940236,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Latvia,LVA,70.8746206,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Lebanon,LBN,27.891694199999996,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Lesotho,LSO,100.0,3,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Liberia,LBR,41.639153,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Libya,LBY,0.029932766,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Lithuania,LTU,71.6880482,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Luxembourg,LUX,85.2073168,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Macao,MAC,36.169492,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Madagascar,MDG,39.1016068,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Malawi,MWI,96.388442,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Malaysia,MYS,19.165939,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Maldives,MDV,6.401379800000001,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Mali,MLI,32.413960200000005,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Malta,MLT,13.195136999999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Martinique,MTQ,24.958635,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Mauritania,MRT,25.7981612,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Mauritius,MUS,20.08273,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Mexico,MEX,25.868048800000004,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Moldova,MDA,8.4630063,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Mongolia,MNG,9.8429076,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Montenegro,MNE,57.507514400000005,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Montserrat,MSR,0.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Morocco,MAR,20.6581006,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Mozambique,MOZ,83.4310452,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Myanmar,MMR,46.6458778,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Namibia,NAM,97.5560828,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Nauru,NRU,4.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Nepal,NPL,100.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Netherlands,NLD,42.9483052,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+New Caledonia,NCL,23.4855548,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+New Zealand,NZL,85.03727599999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Nicaragua,NIC,65.58822219999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Niger,NER,2.71067432,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Nigeria,NGA,22.7209642,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+North Korea,PRK,61.19695420000001,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+North Macedonia,MKD,31.238726199999995,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Norway,NOR,98.711363,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Oman,OMN,3.24542048,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Pakistan,PAK,42.224185,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Palestine,PSE,31.6663338,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Panama,PAN,71.979579,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Papua New Guinea,PNG,24.1062648,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Paraguay,PRY,100.0,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Peru,PER,58.957488999999995,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Philippines,PHL,21.484286599999997,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Poland,POL,23.0025852,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Portugal,PRT,68.3850964,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Puerto Rico,PRI,5.0775694399999995,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Qatar,QAT,1.8951555240000002,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Reunion,REU,36.738206250000005,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Romania,ROU,65.93042080000001,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Russia,RUS,37.38946919999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Rwanda,RWA,55.6524172,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Saint Helena,SHN,0.0,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Saint Kitts and Nevis,KNA,5.375494000000001,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Saint Lucia,LCA,2.5263158,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Saint Pierre and Miquelon,SPM,0.0,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Saint Vincent and the Grenadines,VCT,13.523808400000002,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Samoa,WSM,42.6895418,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Sao Tome and Principe,STP,10.101009999999999,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Saudi Arabia,SAU,0.8491993040000001,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Senegal,SEN,18.7072422,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Serbia,SRB,31.207438000000003,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Seychelles,SYC,14.020603,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Sierra Leone,SLE,95.09524,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Singapore,SGP,3.85456396,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Slovakia,SVK,81.2912242,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Slovenia,SVN,73.4396748,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Solomon Islands,SLB,5.4545454,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Somalia,SOM,15.531979000000002,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+South Africa,ZAF,13.7662801,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+South Korea,KOR,36.909103,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+South Sudan,SSD,1.81446264,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Spain,ESP,69.1002744,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Sri Lanka,LKA,47.8227552,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Sudan,SDN,71.98004499999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Suriname,SUR,49.4441132,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Sweden,SWE,98.4906292,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Switzerland,CHE,97.608357,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Syria,SYR,3.8219815399999995,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Taiwan,TWN,15.443367599999998,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Tajikistan,TJK,92.33051880000001,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Tanzania,TZA,33.603995399999995,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Thailand,THA,15.094877,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Togo,TGO,22.7254686,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Tonga,TON,13.928571199999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Trinidad and Tobago,TTO,0.1062468858,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Tunisia,TUN,3.5241630600000002,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Turkey,TUR,41.4193272,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Turkmenistan,TKM,0.025370963200000003,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Turks and Caicos Islands,TCA,0.74074068,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Uganda,UGA,97.2887096,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Ukraine,UKR,68.05362166666667,3,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+United Arab Emirates,ARE,19.039471279999997,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+United Kingdom,GBR,59.08266619999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+United States,USA,40.4953728,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+United States Virgin Islands,VIR,2.6187888999999998,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Uruguay,URY,92.14775,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Uzbekistan,UZB,9.9244259,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Vanuatu,VUT,27.083333,4,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Venezuela,VEN,83.35196599999999,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Vietnam,VNM,42.455063,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Yemen,YEM,14.4031958,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Zambia,ZMB,88.57187400000001,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Zimbabwe,ZWE,61.9780136,5,low_carbon_electricity_share_pct,2020–2024; at least 3 observations
+Afghanistan,AFG,12.5017365,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Albania,ALB,0.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Algeria,DZA,98.9973592,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+American Samoa,ASM,97.77777599999999,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Angola,AGO,25.1327758,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Antigua and Barbuda,ATG,93.870442,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Argentina,ARG,64.1481302,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Armenia,ARM,41.3065498,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Aruba,ABW,82.965656,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Australia,AUS,68.988036,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Austria,AUT,18.284662,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Azerbaijan,AZE,92.95381280000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Bahamas,BHS,99.2495438,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Bahrain,BHR,99.8188368,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Bangladesh,BGD,98.39524700000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Barbados,BRB,92.263756,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Belarus,BLR,78.7829732,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Belgium,BEL,27.726241199999997,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Belize,BLZ,12.3791102,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Benin,BEN,97.6478788,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Bermuda,BMU,98.36420559999999,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Bhutan,BTN,0.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Bolivia,BOL,64.573962,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Bosnia and Herzegovina,BIH,63.268904,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Botswana,BWA,99.629583,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Brazil,BRA,12.9284494,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+British Virgin Islands,VGB,100.0,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Brunei,BRN,99.96402900000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Bulgaria,BGR,38.959638,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Burkina Faso,BFA,82.8965392,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Burundi,BDI,26.870517200000002,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Cambodia,KHM,48.5749304,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Cameroon,CMR,33.1335774,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Canada,CAN,19.928833,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Cape Verde,CPV,75.591892,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Cayman Islands,CYM,96.8609372,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Central African Republic,CAF,0.0,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Chad,TCD,94.70907600000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Chile,CHL,42.831922199999994,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+China,CHN,65.09295,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Colombia,COL,31.3836016,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Comoros,COM,100.0,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Congo,COG,76.1170364,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Cook Islands,COK,55.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Costa Rica,CRI,0.0693763552,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Cote d'Ivoire,CIV,71.830423,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Croatia,HRV,31.727435800000002,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Cuba,CUB,95.77938200000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Cyprus,CYP,82.241453,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Czechia,CZE,47.545548600000004,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Democratic Republic of Congo,COD,0.01601281,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Denmark,DNK,16.4440897,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Djibouti,DJI,72.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Dominica,DMA,86.19047499999999,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Dominican Republic,DOM,82.29908400000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+East Timor,TLS,100.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Ecuador,ECU,23.417532799999996,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Egypt,EGY,88.244843,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+El Salvador,SLV,11.9601417,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Equatorial Guinea,GNQ,69.8543724,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Eritrea,ERI,88.6442582,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Estonia,EST,54.9424862,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Eswatini,SWZ,3.5897111799999997,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Ethiopia,ETH,0.012804097,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Falkland Islands,FLK,100.0,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Faroe Islands,FRO,57.16715275,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Fiji,FJI,37.4137404,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Finland,FIN,10.15840456,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+France,FRA,8.790871540000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+French Guiana,GUF,35.095065250000005,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+French Polynesia,PYF,67.716246,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Gabon,GAB,57.1409394,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Gambia,GMB,100.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Georgia,GEO,22.393644000000002,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Germany,DEU,45.3816502,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Ghana,GHA,63.416104999999995,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Gibraltar,GIB,100.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Greece,GRC,55.951203199999995,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Greenland,GRL,16.1312762,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Grenada,GRD,100.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Guadeloupe,GLP,68.0154935,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Guam,GUM,93.313244,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Guatemala,GTM,26.097884,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Guinea,GIN,28.369975,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Guinea-Bissau,GNB,100.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Guyana,GUY,97.1437632,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Haiti,HTI,82.776736,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Honduras,HND,42.8934428,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Hong Kong,HKG,99.1639232,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Hungary,HUN,32.8704858,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Iceland,ISL,0.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+India,IND,77.93792479999999,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Indonesia,IDN,81.4824322,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Iran,IRN,92.77725319999999,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Iraq,IRQ,97.5853968,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Ireland,IRL,57.9011134,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Israel,ISR,90.145794,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Italy,ITA,57.2885728,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Jamaica,JAM,87.040617,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Japan,JPN,72.8075382,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Jordan,JOR,77.781259,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Kazakhstan,KAZ,87.68376459999999,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Kenya,KEN,9.50930834,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Kiribati,KIR,75.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Kuwait,KWT,98.60516700000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Kyrgyzstan,KGZ,12.453177,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Laos,LAO,25.0597648,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Latvia,LVA,29.125379199999998,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Lebanon,LBN,72.10830619999999,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Lesotho,LSO,0.0,3,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Liberia,LBR,58.360846800000004,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Libya,LBY,99.970065,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Lithuania,LTU,28.3119488,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Luxembourg,LUX,14.7926808,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Macao,MAC,63.8305076,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Madagascar,MDG,60.898391399999994,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Malawi,MWI,3.6115532279999996,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Malaysia,MYS,80.8340606,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Maldives,MDV,93.598622,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Mali,MLI,67.5860418,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Malta,MLT,86.804862,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Martinique,MTQ,75.04136625,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Mauritania,MRT,74.201838,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Mauritius,MUS,79.9172698,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Mexico,MEX,74.13195,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Moldova,MDA,91.536995,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Mongolia,MNG,90.1570912,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Montenegro,MNE,42.4924838,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Montserrat,MSR,100.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Morocco,MAR,79.3419,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Mozambique,MOZ,16.568954400000003,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Myanmar,MMR,53.3541236,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Namibia,NAM,2.4439169,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Nauru,NRU,96.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Nepal,NPL,0.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Netherlands,NLD,57.0516972,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+New Caledonia,NCL,76.514448,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+New Zealand,NZL,14.9627254,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Nicaragua,NIC,34.411777,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Niger,NER,97.2893232,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Nigeria,NGA,77.2790348,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+North Korea,PRK,38.8030462,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+North Macedonia,MKD,68.7612732,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Norway,NOR,1.28863356,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Oman,OMN,96.75457800000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Pakistan,PAK,57.7758116,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Palestine,PSE,68.3336668,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Panama,PAN,28.020421199999998,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Papua New Guinea,PNG,75.8937332,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Paraguay,PRY,0.0,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Peru,PER,41.042508600000005,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Philippines,PHL,78.5157122,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Poland,POL,76.9974152,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Portugal,PRT,31.6149024,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Puerto Rico,PRI,94.9224292,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Qatar,QAT,98.1048422,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Reunion,REU,63.2617965,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Romania,ROU,34.0695792,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Russia,RUS,62.610533,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Rwanda,RWA,44.3475836,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Saint Helena,SHN,100.0,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Saint Kitts and Nevis,KNA,94.624504,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Saint Lucia,LCA,97.473676,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Saint Pierre and Miquelon,SPM,100.0,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Saint Vincent and the Grenadines,VCT,86.476186,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Samoa,WSM,57.310458399999995,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Sao Tome and Principe,STP,89.8989905,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Saudi Arabia,SAU,99.1508,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Senegal,SEN,81.2927588,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Serbia,SRB,68.7925642,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Seychelles,SYC,85.97939360000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Sierra Leone,SLE,4.90476188,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Singapore,SGP,96.1454372,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Slovakia,SVK,18.7087758,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Slovenia,SVN,26.560325999999996,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Solomon Islands,SLB,94.5454576,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Somalia,SOM,84.468022,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+South Africa,ZAF,86.23371999999999,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+South Korea,KOR,63.090896199999996,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+South Sudan,SSD,98.185539,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Spain,ESP,30.8997274,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Sri Lanka,LKA,52.1772438,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Sudan,SDN,28.019953199999996,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Suriname,SUR,50.5558884,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Sweden,SWE,1.50937018,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Switzerland,CHE,2.3916386199999997,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Syria,SYR,96.17802,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Taiwan,TWN,84.5566332,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Tajikistan,TJK,7.669479959999999,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Tanzania,TZA,66.3960046,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Thailand,THA,84.9051244,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Togo,TGO,77.27453299999999,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Tonga,TON,86.071432,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Trinidad and Tobago,TTO,99.893754,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Tunisia,TUN,96.47583499999999,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Turkey,TUR,58.58067100000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Turkmenistan,TKM,99.974632,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Turks and Caicos Islands,TCA,99.259258,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Uganda,UGA,2.71128956,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Ukraine,UKR,31.94637833333333,3,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+United Arab Emirates,ARE,80.9605278,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+United Kingdom,GBR,40.9173336,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+United States,USA,59.5046236,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+United States Virgin Islands,VIR,97.3812075,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Uruguay,URY,7.852252900000001,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Uzbekistan,UZB,90.075574,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Vanuatu,VUT,72.91666599999999,4,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Venezuela,VEN,16.6480338,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Vietnam,VNM,57.5449388,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Yemen,YEM,85.5968032,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Zambia,ZMB,11.428128599999999,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Zimbabwe,ZWE,38.0219888,5,fossil_fuels_electricity_share_pct,2020–2024; at least 3 observations
+Afghanistan,AFG,0.088,5,solar_electricity_twh,2020–2024; at least 3 observations
+Albania,ALB,0.174,5,solar_electricity_twh,2020–2024; at least 3 observations
+Algeria,DZA,0.86,5,solar_electricity_twh,2020–2024; at least 3 observations
+American Samoa,ASM,0.004,5,solar_electricity_twh,2020–2024; at least 3 observations
+Angola,AGO,0.252,5,solar_electricity_twh,2020–2024; at least 3 observations
+Antigua and Barbuda,ATG,0.022,5,solar_electricity_twh,2020–2024; at least 3 observations
+Argentina,ARG,2.746,5,solar_electricity_twh,2020–2024; at least 3 observations
+Armenia,ARM,0.52,5,solar_electricity_twh,2020–2024; at least 3 observations
+Aruba,ABW,0.03,5,solar_electricity_twh,2020–2024; at least 3 observations
+Australia,AUS,37.554,5,solar_electricity_twh,2020–2024; at least 3 observations
+Austria,AUT,4.728,5,solar_electricity_twh,2020–2024; at least 3 observations
+Azerbaijan,AZE,0.062,5,solar_electricity_twh,2020–2024; at least 3 observations
+Bahamas,BHS,0.016,5,solar_electricity_twh,2020–2024; at least 3 observations
+Bahrain,BHR,0.066,5,solar_electricity_twh,2020–2024; at least 3 observations
+Bangladesh,BGD,0.8460000000000001,5,solar_electricity_twh,2020–2024; at least 3 observations
+Barbados,BRB,0.084,5,solar_electricity_twh,2020–2024; at least 3 observations
+Belarus,BLR,0.21200000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Belgium,BEL,6.8,5,solar_electricity_twh,2020–2024; at least 3 observations
+Belize,BLZ,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Benin,BEN,0.024,5,solar_electricity_twh,2020–2024; at least 3 observations
+Bermuda,BMU,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Bhutan,BTN,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Bolivia,BOL,0.356,5,solar_electricity_twh,2020–2024; at least 3 observations
+Bosnia and Herzegovina,BIH,0.174,5,solar_electricity_twh,2020–2024; at least 3 observations
+Botswana,BWA,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Brazil,BRA,35.916,5,solar_electricity_twh,2020–2024; at least 3 observations
+British Virgin Islands,VGB,0.0,4,solar_electricity_twh,2020–2024; at least 3 observations
+Brunei,BRN,0.002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Bulgaria,BGR,2.808,5,solar_electricity_twh,2020–2024; at least 3 observations
+Burkina Faso,BFA,0.094,5,solar_electricity_twh,2020–2024; at least 3 observations
+Burundi,BDI,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Cambodia,KHM,0.6980000000000001,5,solar_electricity_twh,2020–2024; at least 3 observations
+Cameroon,CMR,0.024,5,solar_electricity_twh,2020–2024; at least 3 observations
+Canada,CAN,6.548,5,solar_electricity_twh,2020–2024; at least 3 observations
+Cape Verde,CPV,0.048,5,solar_electricity_twh,2020–2024; at least 3 observations
+Cayman Islands,CYM,0.022,5,solar_electricity_twh,2020–2024; at least 3 observations
+Central African Republic,CAF,0.0,4,solar_electricity_twh,2020–2024; at least 3 observations
+Chad,TCD,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Chile,CHL,14.386000000000001,5,solar_electricity_twh,2020–2024; at least 3 observations
+China,CHN,487.712,5,solar_electricity_twh,2020–2024; at least 3 observations
+Colombia,COL,1.186,5,solar_electricity_twh,2020–2024; at least 3 observations
+Comoros,COM,0.0,4,solar_electricity_twh,2020–2024; at least 3 observations
+Congo,COG,0.004,5,solar_electricity_twh,2020–2024; at least 3 observations
+Cook Islands,COK,0.018,5,solar_electricity_twh,2020–2024; at least 3 observations
+Costa Rica,CRI,0.082,5,solar_electricity_twh,2020–2024; at least 3 observations
+Cote d'Ivoire,CIV,0.02,5,solar_electricity_twh,2020–2024; at least 3 observations
+Croatia,HRV,0.32599999999999996,5,solar_electricity_twh,2020–2024; at least 3 observations
+Cuba,CUB,0.22000000000000003,5,solar_electricity_twh,2020–2024; at least 3 observations
+Cyprus,CYP,0.662,5,solar_electricity_twh,2020–2024; at least 3 observations
+Czechia,CZE,2.73,5,solar_electricity_twh,2020–2024; at least 3 observations
+Democratic Republic of Congo,COD,1.578,5,solar_electricity_twh,2020–2024; at least 3 observations
+Denmark,DNK,2.462,5,solar_electricity_twh,2020–2024; at least 3 observations
+Djibouti,DJI,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Dominica,DMA,0.0,4,solar_electricity_twh,2020–2024; at least 3 observations
+Dominican Republic,DOM,1.1199999999999999,5,solar_electricity_twh,2020–2024; at least 3 observations
+East Timor,TLS,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Ecuador,ECU,0.04,5,solar_electricity_twh,2020–2024; at least 3 observations
+Egypt,EGY,5.0840000000000005,5,solar_electricity_twh,2020–2024; at least 3 observations
+El Salvador,SLV,1.274,5,solar_electricity_twh,2020–2024; at least 3 observations
+Equatorial Guinea,GNQ,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Eritrea,ERI,0.05,5,solar_electricity_twh,2020–2024; at least 3 observations
+Estonia,EST,0.5980000000000001,5,solar_electricity_twh,2020–2024; at least 3 observations
+Eswatini,SWZ,0.024,5,solar_electricity_twh,2020–2024; at least 3 observations
+Ethiopia,ETH,0.036,5,solar_electricity_twh,2020–2024; at least 3 observations
+Falkland Islands,FLK,0.0,4,solar_electricity_twh,2020–2024; at least 3 observations
+Faroe Islands,FRO,0.0,4,solar_electricity_twh,2020–2024; at least 3 observations
+Fiji,FJI,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Finland,FIN,0.514,5,solar_electricity_twh,2020–2024; at least 3 observations
+France,FRA,19.034,5,solar_electricity_twh,2020–2024; at least 3 observations
+French Guiana,GUF,0.057499999999999996,4,solar_electricity_twh,2020–2024; at least 3 observations
+French Polynesia,PYF,0.05,5,solar_electricity_twh,2020–2024; at least 3 observations
+Gabon,GAB,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Gambia,GMB,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Georgia,GEO,0.012,5,solar_electricity_twh,2020–2024; at least 3 observations
+Germany,DEU,59.428,5,solar_electricity_twh,2020–2024; at least 3 observations
+Ghana,GHA,0.134,5,solar_electricity_twh,2020–2024; at least 3 observations
+Gibraltar,GIB,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Greece,GRC,7.398000000000001,5,solar_electricity_twh,2020–2024; at least 3 observations
+Greenland,GRL,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Grenada,GRD,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Guadeloupe,GLP,0.11,4,solar_electricity_twh,2020–2024; at least 3 observations
+Guam,GUM,0.12000000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Guatemala,GTM,0.24000000000000005,5,solar_electricity_twh,2020–2024; at least 3 observations
+Guinea,GIN,0.026000000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Guinea-Bissau,GNB,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Guyana,GUY,0.014000000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Haiti,HTI,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Honduras,HND,1.1019999999999999,5,solar_electricity_twh,2020–2024; at least 3 observations
+Hong Kong,HKG,0.156,5,solar_electricity_twh,2020–2024; at least 3 observations
+Hungary,HUN,5.4239999999999995,5,solar_electricity_twh,2020–2024; at least 3 observations
+Iceland,ISL,0.002,5,solar_electricity_twh,2020–2024; at least 3 observations
+India,IND,94.582,5,solar_electricity_twh,2020–2024; at least 3 observations
+Indonesia,IDN,0.5720000000000001,5,solar_electricity_twh,2020–2024; at least 3 observations
+Iran,IRN,0.6799999999999999,5,solar_electricity_twh,2020–2024; at least 3 observations
+Iraq,IRQ,0.39,5,solar_electricity_twh,2020–2024; at least 3 observations
+Ireland,IRL,0.406,5,solar_electricity_twh,2020–2024; at least 3 observations
+Israel,ISR,7.15,5,solar_electricity_twh,2020–2024; at least 3 observations
+Italy,ITA,28.96,5,solar_electricity_twh,2020–2024; at least 3 observations
+Jamaica,JAM,0.132,5,solar_electricity_twh,2020–2024; at least 3 observations
+Japan,JPN,88.846,5,solar_electricity_twh,2020–2024; at least 3 observations
+Jordan,JOR,3.3280000000000003,5,solar_electricity_twh,2020–2024; at least 3 observations
+Kazakhstan,KAZ,1.6760000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Kenya,KEN,0.384,5,solar_electricity_twh,2020–2024; at least 3 observations
+Kiribati,KIR,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Kuwait,KWT,0.156,5,solar_electricity_twh,2020–2024; at least 3 observations
+Kyrgyzstan,KGZ,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Laos,LAO,0.072,5,solar_electricity_twh,2020–2024; at least 3 observations
+Latvia,LVA,0.174,5,solar_electricity_twh,2020–2024; at least 3 observations
+Lebanon,LBN,0.942,5,solar_electricity_twh,2020–2024; at least 3 observations
+Lesotho,LSO,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Liberia,LBR,0.002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Libya,LBY,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Lithuania,LTU,0.55,5,solar_electricity_twh,2020–2024; at least 3 observations
+Luxembourg,LUX,0.254,5,solar_electricity_twh,2020–2024; at least 3 observations
+Macao,MAC,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Madagascar,MDG,0.068,5,solar_electricity_twh,2020–2024; at least 3 observations
+Malawi,MWI,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Malaysia,MYS,2.894,5,solar_electricity_twh,2020–2024; at least 3 observations
+Maldives,MDV,0.054000000000000006,5,solar_electricity_twh,2020–2024; at least 3 observations
+Mali,MLI,0.142,5,solar_electricity_twh,2020–2024; at least 3 observations
+Malta,MLT,0.286,5,solar_electricity_twh,2020–2024; at least 3 observations
+Martinique,MTQ,0.0925,4,solar_electricity_twh,2020–2024; at least 3 observations
+Mauritania,MRT,0.14400000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Mauritius,MUS,0.156,5,solar_electricity_twh,2020–2024; at least 3 observations
+Mexico,MEX,21.086000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Moldova,MDA,0.05,5,solar_electricity_twh,2020–2024; at least 3 observations
+Mongolia,MNG,0.176,5,solar_electricity_twh,2020–2024; at least 3 observations
+Montenegro,MNE,0.016,5,solar_electricity_twh,2020–2024; at least 3 observations
+Montserrat,MSR,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Morocco,MAR,1.862,5,solar_electricity_twh,2020–2024; at least 3 observations
+Mozambique,MOZ,0.07200000000000001,5,solar_electricity_twh,2020–2024; at least 3 observations
+Myanmar,MMR,0.11200000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Namibia,NAM,0.496,5,solar_electricity_twh,2020–2024; at least 3 observations
+Nauru,NRU,0.002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Nepal,NPL,0.098,5,solar_electricity_twh,2020–2024; at least 3 observations
+Netherlands,NLD,15.592000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+New Caledonia,NCL,0.21000000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+New Zealand,NZL,0.278,5,solar_electricity_twh,2020–2024; at least 3 observations
+Nicaragua,NIC,0.03,5,solar_electricity_twh,2020–2024; at least 3 observations
+Niger,NER,0.022,5,solar_electricity_twh,2020–2024; at least 3 observations
+Nigeria,NGA,0.10400000000000001,5,solar_electricity_twh,2020–2024; at least 3 observations
+Niue,NIU,0.0,4,solar_electricity_twh,2020–2024; at least 3 observations
+North Korea,PRK,0.13999999999999999,5,solar_electricity_twh,2020–2024; at least 3 observations
+North Macedonia,MKD,0.284,5,solar_electricity_twh,2020–2024; at least 3 observations
+Norway,NOR,0.25,5,solar_electricity_twh,2020–2024; at least 3 observations
+Oman,OMN,1.3800000000000001,5,solar_electricity_twh,2020–2024; at least 3 observations
+Pakistan,PAK,9.758,5,solar_electricity_twh,2020–2024; at least 3 observations
+Palestine,PSE,0.294,5,solar_electricity_twh,2020–2024; at least 3 observations
+Panama,PAN,0.694,5,solar_electricity_twh,2020–2024; at least 3 observations
+Papua New Guinea,PNG,0.006,5,solar_electricity_twh,2020–2024; at least 3 observations
+Paraguay,PRY,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Peru,PER,0.844,5,solar_electricity_twh,2020–2024; at least 3 observations
+Philippines,PHL,1.7120000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Poland,POL,8.594,5,solar_electricity_twh,2020–2024; at least 3 observations
+Portugal,PRT,3.946,5,solar_electricity_twh,2020–2024; at least 3 observations
+Puerto Rico,PRI,0.78,5,solar_electricity_twh,2020–2024; at least 3 observations
+Qatar,QAT,0.9279999999999999,5,solar_electricity_twh,2020–2024; at least 3 observations
+Reunion,REU,0.2725,4,solar_electricity_twh,2020–2024; at least 3 observations
+Romania,ROU,2.214,5,solar_electricity_twh,2020–2024; at least 3 observations
+Russia,RUS,2.4240000000000004,5,solar_electricity_twh,2020–2024; at least 3 observations
+Rwanda,RWA,0.038,5,solar_electricity_twh,2020–2024; at least 3 observations
+Saint Helena,SHN,0.0,4,solar_electricity_twh,2020–2024; at least 3 observations
+Saint Kitts and Nevis,KNA,0.002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Saint Lucia,LCA,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Saint Pierre and Miquelon,SPM,0.0,4,solar_electricity_twh,2020–2024; at least 3 observations
+Saint Vincent and the Grenadines,VCT,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Samoa,WSM,0.022,5,solar_electricity_twh,2020–2024; at least 3 observations
+Sao Tome and Principe,STP,0.0,4,solar_electricity_twh,2020–2024; at least 3 observations
+Saudi Arabia,SAU,2.896,5,solar_electricity_twh,2020–2024; at least 3 observations
+Senegal,SEN,0.556,5,solar_electricity_twh,2020–2024; at least 3 observations
+Serbia,SRB,0.05,5,solar_electricity_twh,2020–2024; at least 3 observations
+Seychelles,SYC,0.076,5,solar_electricity_twh,2020–2024; at least 3 observations
+Sierra Leone,SLE,0.014000000000000002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Singapore,SGP,0.718,5,solar_electricity_twh,2020–2024; at least 3 observations
+Slovakia,SVK,0.656,5,solar_electricity_twh,2020–2024; at least 3 observations
+Slovenia,SVN,0.744,5,solar_electricity_twh,2020–2024; at least 3 observations
+Solomon Islands,SLB,0.006,5,solar_electricity_twh,2020–2024; at least 3 observations
+Somalia,SOM,0.054000000000000006,5,solar_electricity_twh,2020–2024; at least 3 observations
+South Africa,ZAF,11.678,5,solar_electricity_twh,2020–2024; at least 3 observations
+South Korea,KOR,28.15,5,solar_electricity_twh,2020–2024; at least 3 observations
+South Sudan,SSD,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Spain,ESP,38.074,5,solar_electricity_twh,2020–2024; at least 3 observations
+Sri Lanka,LKA,0.85,5,solar_electricity_twh,2020–2024; at least 3 observations
+Sudan,SDN,0.098,5,solar_electricity_twh,2020–2024; at least 3 observations
+Suriname,SUR,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Sweden,SWE,2.366,5,solar_electricity_twh,2020–2024; at least 3 observations
+Switzerland,CHE,3.9159999999999995,5,solar_electricity_twh,2020–2024; at least 3 observations
+Syria,SYR,0.076,5,solar_electricity_twh,2020–2024; at least 3 observations
+Taiwan,TWN,10.506,5,solar_electricity_twh,2020–2024; at least 3 observations
+Tajikistan,TJK,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Tanzania,TZA,0.032,5,solar_electricity_twh,2020–2024; at least 3 observations
+Thailand,THA,5.1240000000000006,5,solar_electricity_twh,2020–2024; at least 3 observations
+Togo,TGO,0.084,5,solar_electricity_twh,2020–2024; at least 3 observations
+Tonga,TON,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Trinidad and Tobago,TTO,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Tunisia,TUN,0.348,5,solar_electricity_twh,2020–2024; at least 3 observations
+Turkey,TUR,16.742,5,solar_electricity_twh,2020–2024; at least 3 observations
+Turkmenistan,TKM,0.0,5,solar_electricity_twh,2020–2024; at least 3 observations
+Turks and Caicos Islands,TCA,0.002,5,solar_electricity_twh,2020–2024; at least 3 observations
+Uganda,UGA,0.148,5,solar_electricity_twh,2020–2024; at least 3 observations
+Ukraine,UKR,5.6499999999999995,3,solar_electricity_twh,2020–2024; at least 3 observations
+United Arab Emirates,ARE,9.756,5,solar_electricity_twh,2020–2024; at least 3 observations
+United Kingdom,GBR,13.338,5,solar_electricity_twh,2020–2024; at least 3 observations
+United States,USA,208.58,5,solar_electricity_twh,2020–2024; at least 3 observations
+United States Virgin Islands,VIR,0.0175,4,solar_electricity_twh,2020–2024; at least 3 observations
+Uruguay,URY,0.49800000000000005,5,solar_electricity_twh,2020–2024; at least 3 observations
+Uzbekistan,UZB,0.7699999999999999,5,solar_electricity_twh,2020–2024; at least 3 observations
+Vanuatu,VUT,0.01,4,solar_electricity_twh,2020–2024; at least 3 observations
+Venezuela,VEN,0.01,5,solar_electricity_twh,2020–2024; at least 3 observations
+Vietnam,VNM,22.842,5,solar_electricity_twh,2020–2024; at least 3 observations
+Yemen,YEM,0.522,5,solar_electricity_twh,2020–2024; at least 3 observations
+Zambia,ZMB,0.152,5,solar_electricity_twh,2020–2024; at least 3 observations
+Zimbabwe,ZWE,0.028000000000000004,5,solar_electricity_twh,2020–2024; at least 3 observations
+Afghanistan,AFG,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Albania,ALB,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Algeria,DZA,0.014000000000000002,5,wind_electricity_twh,2020–2024; at least 3 observations
+American Samoa,ASM,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Angola,AGO,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Antigua and Barbuda,ATG,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Argentina,ARG,13.431999999999999,5,wind_electricity_twh,2020–2024; at least 3 observations
+Armenia,ARM,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Aruba,ABW,0.14,5,wind_electricity_twh,2020–2024; at least 3 observations
+Australia,AUS,28.814,5,wind_electricity_twh,2020–2024; at least 3 observations
+Austria,AUT,7.590000000000001,5,wind_electricity_twh,2020–2024; at least 3 observations
+Azerbaijan,AZE,0.088,5,wind_electricity_twh,2020–2024; at least 3 observations
+Bahamas,BHS,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Bahrain,BHR,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Bangladesh,BGD,0.006,5,wind_electricity_twh,2020–2024; at least 3 observations
+Barbados,BRB,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Belarus,BLR,0.186,5,wind_electricity_twh,2020–2024; at least 3 observations
+Belgium,BEL,13.331999999999999,5,wind_electricity_twh,2020–2024; at least 3 observations
+Belize,BLZ,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Benin,BEN,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Bermuda,BMU,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Bhutan,BTN,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Bolivia,BOL,0.31,5,wind_electricity_twh,2020–2024; at least 3 observations
+Bosnia and Herzegovina,BIH,0.352,5,wind_electricity_twh,2020–2024; at least 3 observations
+Botswana,BWA,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Brazil,BRA,83.05199999999999,5,wind_electricity_twh,2020–2024; at least 3 observations
+British Virgin Islands,VGB,0.0,4,wind_electricity_twh,2020–2024; at least 3 observations
+Brunei,BRN,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Bulgaria,BGR,1.49,5,wind_electricity_twh,2020–2024; at least 3 observations
+Burkina Faso,BFA,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Burundi,BDI,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Cameroon,CMR,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Canada,CAN,39.976,5,wind_electricity_twh,2020–2024; at least 3 observations
+Cape Verde,CPV,0.07,5,wind_electricity_twh,2020–2024; at least 3 observations
+Cayman Islands,CYM,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Central African Republic,CAF,0.0,4,wind_electricity_twh,2020–2024; at least 3 observations
+Chad,TCD,0.01,5,wind_electricity_twh,2020–2024; at least 3 observations
+Chile,CHL,8.388,5,wind_electricity_twh,2020–2024; at least 3 observations
+China,CHN,753.576,5,wind_electricity_twh,2020–2024; at least 3 observations
+Colombia,COL,0.10200000000000001,5,wind_electricity_twh,2020–2024; at least 3 observations
+Comoros,COM,0.0,4,wind_electricity_twh,2020–2024; at least 3 observations
+Congo,COG,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Cook Islands,COK,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Costa Rica,CRI,1.426,5,wind_electricity_twh,2020–2024; at least 3 observations
+Cote d'Ivoire,CIV,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Croatia,HRV,2.238,5,wind_electricity_twh,2020–2024; at least 3 observations
+Cuba,CUB,0.046,5,wind_electricity_twh,2020–2024; at least 3 observations
+Cyprus,CYP,0.22799999999999998,5,wind_electricity_twh,2020–2024; at least 3 observations
+Czechia,CZE,0.662,5,wind_electricity_twh,2020–2024; at least 3 observations
+Democratic Republic of Congo,COD,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Denmark,DNK,18.240000000000002,5,wind_electricity_twh,2020–2024; at least 3 observations
+Djibouti,DJI,0.05600000000000001,5,wind_electricity_twh,2020–2024; at least 3 observations
+Dominica,DMA,0.0,4,wind_electricity_twh,2020–2024; at least 3 observations
+Dominican Republic,DOM,1.192,5,wind_electricity_twh,2020–2024; at least 3 observations
+East Timor,TLS,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Ecuador,ECU,0.128,5,wind_electricity_twh,2020–2024; at least 3 observations
+Egypt,EGY,5.75,5,wind_electricity_twh,2020–2024; at least 3 observations
+El Salvador,SLV,0.11800000000000002,5,wind_electricity_twh,2020–2024; at least 3 observations
+Equatorial Guinea,GNQ,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Eritrea,ERI,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Estonia,EST,0.794,5,wind_electricity_twh,2020–2024; at least 3 observations
+Eswatini,SWZ,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Ethiopia,ETH,0.65,5,wind_electricity_twh,2020–2024; at least 3 observations
+Falkland Islands,FLK,0.0,4,wind_electricity_twh,2020–2024; at least 3 observations
+Faroe Islands,FRO,0.07,4,wind_electricity_twh,2020–2024; at least 3 observations
+Fiji,FJI,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Finland,FIN,12.862,5,wind_electricity_twh,2020–2024; at least 3 observations
+France,FRA,42.256,5,wind_electricity_twh,2020–2024; at least 3 observations
+French Polynesia,PYF,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Gabon,GAB,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Gambia,GMB,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Georgia,GEO,0.088,5,wind_electricity_twh,2020–2024; at least 3 observations
+Germany,DEU,130.644,5,wind_electricity_twh,2020–2024; at least 3 observations
+Ghana,GHA,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Gibraltar,GIB,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Greece,GRC,10.848,5,wind_electricity_twh,2020–2024; at least 3 observations
+Greenland,GRL,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Grenada,GRD,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Guadeloupe,GLP,0.0975,4,wind_electricity_twh,2020–2024; at least 3 observations
+Guam,GUM,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Guatemala,GTM,0.32999999999999996,5,wind_electricity_twh,2020–2024; at least 3 observations
+Guinea,GIN,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Guinea-Bissau,GNB,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Guyana,GUY,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Haiti,HTI,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Honduras,HND,0.722,5,wind_electricity_twh,2020–2024; at least 3 observations
+Hong Kong,HKG,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Hungary,HUN,0.6519999999999999,5,wind_electricity_twh,2020–2024; at least 3 observations
+Iceland,ISL,0.01,5,wind_electricity_twh,2020–2024; at least 3 observations
+India,IND,72.444,5,wind_electricity_twh,2020–2024; at least 3 observations
+Indonesia,IDN,0.44399999999999995,5,wind_electricity_twh,2020–2024; at least 3 observations
+Iran,IRN,1.17,5,wind_electricity_twh,2020–2024; at least 3 observations
+Iraq,IRQ,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Ireland,IRL,11.306000000000001,5,wind_electricity_twh,2020–2024; at least 3 observations
+Israel,ISR,0.318,5,wind_electricity_twh,2020–2024; at least 3 observations
+Italy,ITA,21.198,5,wind_electricity_twh,2020–2024; at least 3 observations
+Jamaica,JAM,0.274,5,wind_electricity_twh,2020–2024; at least 3 observations
+Japan,JPN,9.774,5,wind_electricity_twh,2020–2024; at least 3 observations
+Jordan,JOR,1.6460000000000001,5,wind_electricity_twh,2020–2024; at least 3 observations
+Kazakhstan,KAZ,2.756,5,wind_electricity_twh,2020–2024; at least 3 observations
+Kenya,KEN,1.9280000000000002,5,wind_electricity_twh,2020–2024; at least 3 observations
+Kiribati,KIR,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Kuwait,KWT,1.08,5,wind_electricity_twh,2020–2024; at least 3 observations
+Kyrgyzstan,KGZ,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Laos,LAO,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Latvia,LVA,0.21200000000000002,5,wind_electricity_twh,2020–2024; at least 3 observations
+Lebanon,LBN,0.01,5,wind_electricity_twh,2020–2024; at least 3 observations
+Lesotho,LSO,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Liberia,LBR,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Libya,LBY,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Lithuania,LTU,2.0740000000000003,5,wind_electricity_twh,2020–2024; at least 3 observations
+Luxembourg,LUX,0.386,5,wind_electricity_twh,2020–2024; at least 3 observations
+Macao,MAC,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Madagascar,MDG,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Malawi,MWI,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Malaysia,MYS,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Maldives,MDV,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Mali,MLI,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Malta,MLT,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Martinique,MTQ,0.04,4,wind_electricity_twh,2020–2024; at least 3 observations
+Mauritania,MRT,0.10400000000000001,5,wind_electricity_twh,2020–2024; at least 3 observations
+Mauritius,MUS,0.014000000000000002,5,wind_electricity_twh,2020–2024; at least 3 observations
+Mexico,MEX,20.35,5,wind_electricity_twh,2020–2024; at least 3 observations
+Moldova,MDA,0.134,5,wind_electricity_twh,2020–2024; at least 3 observations
+Mongolia,MNG,0.518,5,wind_electricity_twh,2020–2024; at least 3 observations
+Montenegro,MNE,0.308,5,wind_electricity_twh,2020–2024; at least 3 observations
+Montserrat,MSR,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Morocco,MAR,5.74,5,wind_electricity_twh,2020–2024; at least 3 observations
+Mozambique,MOZ,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Myanmar,MMR,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Namibia,NAM,0.02,5,wind_electricity_twh,2020–2024; at least 3 observations
+Nauru,NRU,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Nepal,NPL,0.01,5,wind_electricity_twh,2020–2024; at least 3 observations
+Netherlands,NLD,23.594,5,wind_electricity_twh,2020–2024; at least 3 observations
+New Caledonia,NCL,0.042,5,wind_electricity_twh,2020–2024; at least 3 observations
+New Zealand,NZL,3.122,5,wind_electricity_twh,2020–2024; at least 3 observations
+Nicaragua,NIC,0.5780000000000001,5,wind_electricity_twh,2020–2024; at least 3 observations
+Niger,NER,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Nigeria,NGA,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Niue,NIU,0.0,4,wind_electricity_twh,2020–2024; at least 3 observations
+North Korea,PRK,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+North Macedonia,MKD,0.132,5,wind_electricity_twh,2020–2024; at least 3 observations
+Norway,NOR,13.006,5,wind_electricity_twh,2020–2024; at least 3 observations
+Oman,OMN,0.08,5,wind_electricity_twh,2020–2024; at least 3 observations
+Pakistan,PAK,5.006,5,wind_electricity_twh,2020–2024; at least 3 observations
+Palestine,PSE,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Panama,PAN,0.708,5,wind_electricity_twh,2020–2024; at least 3 observations
+Papua New Guinea,PNG,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Paraguay,PRY,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Peru,PER,1.916,5,wind_electricity_twh,2020–2024; at least 3 observations
+Philippines,PHL,1.2440000000000002,5,wind_electricity_twh,2020–2024; at least 3 observations
+Poland,POL,20.375999999999998,5,wind_electricity_twh,2020–2024; at least 3 observations
+Portugal,PRT,13.25,5,wind_electricity_twh,2020–2024; at least 3 observations
+Puerto Rico,PRI,0.16,5,wind_electricity_twh,2020–2024; at least 3 observations
+Qatar,QAT,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Reunion,REU,0.0075,4,wind_electricity_twh,2020–2024; at least 3 observations
+Romania,ROU,6.901999999999999,5,wind_electricity_twh,2020–2024; at least 3 observations
+Russia,RUS,3.4480000000000004,5,wind_electricity_twh,2020–2024; at least 3 observations
+Rwanda,RWA,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Saint Helena,SHN,0.0,4,wind_electricity_twh,2020–2024; at least 3 observations
+Saint Kitts and Nevis,KNA,0.01,5,wind_electricity_twh,2020–2024; at least 3 observations
+Saint Lucia,LCA,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Saint Pierre and Miquelon,SPM,0.0,4,wind_electricity_twh,2020–2024; at least 3 observations
+Saint Vincent and the Grenadines,VCT,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Samoa,WSM,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Sao Tome and Principe,STP,0.0,4,wind_electricity_twh,2020–2024; at least 3 observations
+Saudi Arabia,SAU,0.798,5,wind_electricity_twh,2020–2024; at least 3 observations
+Senegal,SEN,0.362,5,wind_electricity_twh,2020–2024; at least 3 observations
+Serbia,SRB,1.066,5,wind_electricity_twh,2020–2024; at least 3 observations
+Seychelles,SYC,0.01,5,wind_electricity_twh,2020–2024; at least 3 observations
+Sierra Leone,SLE,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Slovakia,SVK,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Slovenia,SVN,0.01,5,wind_electricity_twh,2020–2024; at least 3 observations
+Solomon Islands,SLB,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Somalia,SOM,0.01,5,wind_electricity_twh,2020–2024; at least 3 observations
+South Africa,ZAF,9.492,5,wind_electricity_twh,2020–2024; at least 3 observations
+South Korea,KOR,3.29,5,wind_electricity_twh,2020–2024; at least 3 observations
+South Sudan,SSD,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Spain,ESP,61.552,5,wind_electricity_twh,2020–2024; at least 3 observations
+Sri Lanka,LKA,0.682,5,wind_electricity_twh,2020–2024; at least 3 observations
+Sudan,SDN,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Suriname,SUR,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Sweden,SWE,32.544,5,wind_electricity_twh,2020–2024; at least 3 observations
+Switzerland,CHE,0.158,5,wind_electricity_twh,2020–2024; at least 3 observations
+Syria,SYR,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Taiwan,TWN,4.946,5,wind_electricity_twh,2020–2024; at least 3 observations
+Tajikistan,TJK,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Tanzania,TZA,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Thailand,THA,3.372,5,wind_electricity_twh,2020–2024; at least 3 observations
+Togo,TGO,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Tonga,TON,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Trinidad and Tobago,TTO,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Tunisia,TUN,0.386,5,wind_electricity_twh,2020–2024; at least 3 observations
+Turkey,TUR,32.146,5,wind_electricity_twh,2020–2024; at least 3 observations
+Turkmenistan,TKM,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Turks and Caicos Islands,TCA,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Uganda,UGA,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Ukraine,UKR,2.8333333333333335,3,wind_electricity_twh,2020–2024; at least 3 observations
+United Arab Emirates,ARE,0.052000000000000005,5,wind_electricity_twh,2020–2024; at least 3 observations
+United Kingdom,GBR,77.238,5,wind_electricity_twh,2020–2024; at least 3 observations
+United States,USA,404.696,5,wind_electricity_twh,2020–2024; at least 3 observations
+United States Virgin Islands,VIR,0.0,4,wind_electricity_twh,2020–2024; at least 3 observations
+Uruguay,URY,5.034000000000001,5,wind_electricity_twh,2020–2024; at least 3 observations
+Uzbekistan,UZB,0.49000000000000005,5,wind_electricity_twh,2020–2024; at least 3 observations
+Vanuatu,VUT,0.0025,4,wind_electricity_twh,2020–2024; at least 3 observations
+Venezuela,VEN,0.02,5,wind_electricity_twh,2020–2024; at least 3 observations
+Vietnam,VNM,7.55,5,wind_electricity_twh,2020–2024; at least 3 observations
+Yemen,YEM,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Zambia,ZMB,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Zimbabwe,ZWE,0.0,5,wind_electricity_twh,2020–2024; at least 3 observations
+Afghanistan,AFG,117.29,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Albania,ALB,24.392000000000003,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Algeria,DZA,633.268,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+American Samoa,ASM,632.68,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Angola,AGO,177.012,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Antigua and Barbuda,ATG,614.792,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Argentina,ARG,378.022,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Armenia,ARM,252.096,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Aruba,ABW,549.092,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Australia,AUS,587.324,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Austria,AUT,124.922,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Azerbaijan,AZE,666.3720000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Bahamas,BHS,654.12,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Bahrain,BHR,903.0559999999999,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Bangladesh,BGD,682.5699999999999,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Barbados,BRB,603.418,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Belarus,BLR,412.10600000000005,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Belgium,BEL,139.886,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Belize,BLZ,164.348,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Benin,BEN,590.03,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Bermuda,BMU,643.78,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Bhutan,BTN,23.95,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Bolivia,BOL,486.70599999999996,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Bosnia and Herzegovina,BIH,637.5139999999999,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Botswana,BWA,849.894,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Brazil,BRA,121.428,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+British Virgin Islands,VGB,657.17,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Brunei,BRN,893.96,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Bulgaria,BGR,378.54,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Burkina Faso,BFA,557.838,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Burundi,BDI,202.88,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Cambodia,KHM,414.38199999999995,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Cameroon,CMR,270.034,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Canada,CAN,169.476,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Cape Verde,CPV,500.808,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Cayman Islands,CYM,640.012,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Central African Republic,CAF,0.0,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Chad,TCD,620.92,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Chile,CHL,360.86199999999997,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+China,CHN,586.106,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Colombia,COL,245.18,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Comoros,COM,667.585,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Congo,COG,689.558,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Cook Islands,COK,300.0,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Costa Rica,CRI,25.508000000000003,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Cote d'Ivoire,CIV,408.978,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Croatia,HRV,209.51,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Cuba,CUB,641.052,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Cyprus,CYP,549.016,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Czechia,CZE,455.434,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Democratic Republic of Congo,COD,26.296000000000003,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Denmark,DNK,179.856,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Djibouti,DJI,498.462,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Dominica,DMA,585.7149999999999,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Dominican Republic,DOM,573.392,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+East Timor,TLS,665.336,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Ecuador,ECU,177.766,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Egypt,EGY,570.5939999999999,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+El Salvador,SLV,131.634,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Equatorial Guinea,GNQ,616.034,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Eritrea,ERI,583.466,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Estonia,EST,416.372,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Eswatini,SWZ,136.03199999999998,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Ethiopia,ETH,23.548,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Falkland Islands,FLK,1000.0,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Faroe Islands,FRO,371.675,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Fiji,FJI,275.8,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Finland,FIN,108.742,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+France,FRA,58.23199999999999,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+French Guiana,GUF,249.5625,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+French Polynesia,PYF,445.61,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Gabon,GAB,468.01000000000005,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Gambia,GMB,665.336,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Georgia,GEO,158.448,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Germany,DEU,373.858,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Ghana,GHA,465.68999999999994,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Gibraltar,GIB,581.538,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Greece,GRC,368.20799999999997,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Greenland,GRL,128.906,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Grenada,GRD,657.708,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Guadeloupe,GLP,509.49249999999995,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Guam,GUM,616.384,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Guatemala,GTM,270.82599999999996,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Guinea,GIN,203.528,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Guinea-Bissau,GNB,625.0,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Guyana,GUY,643.8,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Haiti,HTI,543.3720000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Honduras,HND,311.508,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Hong Kong,HKG,681.586,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Hungary,HUN,221.08800000000002,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Iceland,ISL,27.834000000000003,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+India,IND,709.7819999999999,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Indonesia,IDN,681.284,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Iran,IRN,647.6139999999999,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Iraq,IRQ,681.772,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Ireland,IRL,305.432,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Israel,ISR,578.8480000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Italy,ITA,331.154,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Jamaica,JAM,559.652,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Japan,JPN,507.54400000000004,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Jordan,JOR,543.642,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Kazakhstan,KAZ,825.768,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Kenya,KEN,91.942,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Kiribati,KIR,500.0,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Kuwait,KWT,641.61,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Kyrgyzstan,KGZ,132.454,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Laos,LAO,247.97200000000004,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Latvia,LVA,148.246,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Lebanon,LBN,486.784,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Lesotho,LSO,20.986666666666668,3,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Liberia,LBR,386.898,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Libya,LBY,827.6360000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Lithuania,LTU,173.756,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Luxembourg,LUX,144.01,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Macao,MAC,470.066,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Madagascar,MDG,447.12,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Malawi,MWI,50.577999999999996,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Malaysia,MYS,611.5,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Maldives,MDV,615.262,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Mali,MLI,456.666,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Malta,MLT,498.738,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Martinique,MTQ,527.4399999999999,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Mauritania,MRT,492.47799999999995,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Mauritius,MUS,626.64,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Mexico,MEX,475.37399999999997,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Moldova,MDA,653.076,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Mongolia,MNG,810.832,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Montenegro,MNE,442.418,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Montserrat,MSR,1000.0,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Morocco,MAR,631.874,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Mozambique,MOZ,129.144,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Myanmar,MMR,510.84,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Namibia,NAM,49.644,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Nauru,NRU,720.0,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Nepal,NPL,23.502,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Netherlands,NLD,307.874,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+New Caledonia,NCL,589.7860000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+New Zealand,NZL,117.86599999999999,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Nicaragua,NIC,280.614,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Niger,NER,685.852,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Nigeria,NGA,509.89799999999997,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+North Korea,PRK,359.616,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+North Macedonia,MKD,577.962,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Norway,NOR,29.413999999999998,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Oman,OMN,550.988,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Pakistan,PAK,428.18,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Palestine,PSE,465.55199999999996,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Panama,PAN,199.83599999999998,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Papua New Guinea,PNG,510.97200000000004,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Paraguay,PRY,24.768,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Peru,PER,265.78000000000003,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Philippines,PHL,607.75,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Poland,POL,697.196,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Portugal,PRT,190.638,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Puerto Rico,PRI,662.096,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Qatar,QAT,593.58,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Reunion,REU,523.605,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Romania,ROU,272.022,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Russia,RUS,433.90200000000004,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Rwanda,RWA,304.836,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Saint Helena,SHN,1000.0,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Saint Kitts and Nevis,KNA,630.8280000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Saint Lucia,LCA,646.316,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Saint Pierre and Miquelon,SPM,600.0,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Saint Vincent and the Grenadines,VCT,594.286,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Samoa,WSM,378.366,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Sao Tome and Principe,STP,595.96,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Saudi Arabia,SAU,698.72,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Senegal,SEN,551.366,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Serbia,SRB,683.698,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Seychelles,SYC,565.508,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Sierra Leone,SLE,49.048,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Singapore,SGP,502.92600000000004,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Slovakia,SVK,135.924,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Slovenia,SVN,251.892,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Solomon Islands,SLB,661.816,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Somalia,SOM,546.5600000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+South Africa,ZAF,733.088,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+South Korea,KOR,439.59,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+South Sudan,SSD,644.952,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Spain,ESP,185.134,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Sri Lanka,LKA,427.34,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Sudan,SDN,202.69199999999998,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Suriname,SUR,341.95799999999997,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Sweden,SWE,38.962,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Switzerland,CHE,36.366,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Syria,SYR,695.426,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Taiwan,TWN,643.7520000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Tajikistan,TJK,90.522,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Tanzania,TZA,337.224,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Thailand,THA,560.162,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Togo,TGO,461.986,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Tonga,TON,582.144,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Trinidad and Tobago,TTO,681.75,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Tunisia,TUN,562.592,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Turkey,TUR,486.892,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Turkmenistan,TKM,1306.2440000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Turks and Caicos Islands,TCA,646.2360000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Uganda,UGA,56.84400000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Ukraine,UKR,285.11,3,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+United Arab Emirates,ARE,552.1560000000001,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+United Kingdom,GBR,243.35,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+United States,USA,404.514,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+United States Virgin Islands,VIR,635.4225,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Uruguay,URY,107.61599999999999,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Uzbekistan,UZB,1114.868,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Vanuatu,VUT,486.11,4,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Venezuela,VEN,143.392,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Vietnam,VNM,475.12600000000003,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Yemen,YEM,588.294,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Zambia,ZMB,112.96399999999998,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations
+Zimbabwe,ZWE,342.918,5,electricity_carbon_intensity_gco2eq_per_kwh,2020–2024; at least 3 observations

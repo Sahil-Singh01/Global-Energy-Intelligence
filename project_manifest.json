@@ -1,0 +1,56 @@
+{
+  "project": "Global Energy Intelligence",
+  "dataset": "data/owid_energy.csv",
+  "notebooks": [
+    "01_data_audit_and_preparation.ipynb",
+    "02_descriptive_and_distributional_analysis.ipynb",
+    "03_global_energy_trends.ipynb",
+    "04_country_benchmarking_and_energy_mix.ipynb",
+    "05_statistical_analysis_and_robustness.ipynb"
+  ],
+  "python_libraries": [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "scipy"
+  ],
+  "notebook_validation": [
+    {
+      "notebook": "01_data_audit_and_preparation.ipynb",
+      "cells": 16,
+      "code_cells": 5,
+      "code_cells_executed": 5,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "02_descriptive_and_distributional_analysis.ipynb",
+      "cells": 13,
+      "code_cells": 4,
+      "code_cells_executed": 4,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "03_global_energy_trends.ipynb",
+      "cells": 13,
+      "code_cells": 4,
+      "code_cells_executed": 4,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "04_country_benchmarking_and_energy_mix.ipynb",
+      "cells": 13,
+      "code_cells": 4,
+      "code_cells_executed": 4,
+      "stored_errors": 0
+    },
+    {
+      "notebook": "05_statistical_analysis_and_robustness.ipynb",
+      "cells": 14,
+      "code_cells": 4,
+      "code_cells_executed": 4,
+      "stored_errors": 0
+    }
+  ],
+  "note": "Verify source dataset licensing and variable definitions before public redistribution."
+}

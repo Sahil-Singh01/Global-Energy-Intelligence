@@ -1,0 +1,10 @@
+indicator,non_missing_n,non_missing_pct
+population,18319,93.97
+total_energy_twh,11848,60.78
+gdp,11834,60.71
+total_energy_per_capita_kwh,11281,57.87
+total_energy_per_gdp_kwh_per_dollar,7884,40.44
+electricity_generation_twh,7871,40.38
+renewables_electricity_share_pct,7615,39.06
+fossil_fuels_electricity_share_pct,7315,37.52
+electricity_carbon_intensity_gco2eq_per_kwh,6332,32.48

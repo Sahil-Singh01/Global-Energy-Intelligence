@@ -1,0 +1,2 @@
+year,n,pearson_r,pearson_p,spearman_rho,spearman_p,pearson_bootstrap_ci_low,pearson_bootstrap_ci_high,alpha
+2024,195,-0.8769689507637578,2.4545885000126365e-63,-0.8937361347674758,4.1150010772348763e-69,-0.9170774292324926,-0.8355042190746168,0.05

@@ -1,0 +1,3 @@
+sample,n,pearson_r
+all complete cases,195,-0.8769689507637576
+exclude outer 1% tails on both variables,191,-0.8930053618370892

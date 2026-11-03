@@ -1,0 +1,91 @@
+indicator,year,direction,rank,country,iso_code,value,valid_country_candidates
+total_energy_twh,2025,highest,1,China,CHN,45053.71,79
+total_energy_twh,2025,highest,2,United States,USA,26063.51,79
+total_energy_twh,2025,highest,3,India,IND,10860.91,79
+total_energy_twh,2025,highest,4,Russia,RUS,8663.982,79
+total_energy_twh,2025,highest,5,Japan,JPN,4578.486,79
+total_energy_twh,2025,highest,6,Iran,IRN,3688.0261,79
+total_energy_twh,2025,highest,7,South Korea,KOR,3603.5198,79
+total_energy_twh,2025,highest,8,Canada,CAN,3348.667,79
+total_energy_twh,2025,highest,9,Saudi Arabia,SAU,3340.2634,79
+total_energy_twh,2025,highest,10,Indonesia,IDN,3198.9094,79
+total_energy_per_capita_kwh,2025,highest,1,Iceland,ISL,206917.22,79
+total_energy_per_capita_kwh,2025,highest,2,Qatar,QAT,199255.98,79
+total_energy_per_capita_kwh,2025,highest,3,Singapore,SGP,174382.44,79
+total_energy_per_capita_kwh,2025,highest,4,United Arab Emirates,ARE,128664.914,79
+total_energy_per_capita_kwh,2025,highest,5,Kuwait,KWT,104857.31,79
+total_energy_per_capita_kwh,2025,highest,6,Trinidad and Tobago,TTO,99506.38,79
+total_energy_per_capita_kwh,2025,highest,7,Saudi Arabia,SAU,96633.45,79
+total_energy_per_capita_kwh,2025,highest,8,Oman,OMN,87463.266,79
+total_energy_per_capita_kwh,2025,highest,9,Canada,CAN,83452.28,79
+total_energy_per_capita_kwh,2025,highest,10,United States,USA,75051.33,79
+total_energy_per_gdp_kwh_per_dollar,2022,lowest,1,Rwanda,RWA,0.23889002,165
+total_energy_per_gdp_kwh_per_dollar,2022,lowest,2,Ethiopia,ETH,0.3024888,165
+total_energy_per_gdp_kwh_per_dollar,2022,lowest,3,Malawi,MWI,0.30512038,165
+total_energy_per_gdp_kwh_per_dollar,2022,lowest,4,Uganda,UGA,0.3076403,165
+total_energy_per_gdp_kwh_per_dollar,2022,lowest,5,Sri Lanka,LKA,0.31610152,165
+total_energy_per_gdp_kwh_per_dollar,2022,lowest,6,Chad,TCD,0.34286645,165
+total_energy_per_gdp_kwh_per_dollar,2022,lowest,7,Democratic Republic of Congo,COD,0.35173315,165
+total_energy_per_gdp_kwh_per_dollar,2022,lowest,8,Tanzania,TZA,0.3804062,165
+total_energy_per_gdp_kwh_per_dollar,2022,lowest,9,Madagascar,MDG,0.4292067,165
+total_energy_per_gdp_kwh_per_dollar,2022,lowest,10,Cameroon,CMR,0.43735412,165
+renewables_electricity_share_pct,2025,highest,1,Costa Rica,CRI,100.0,90
+renewables_electricity_share_pct,2025,highest,2,Ethiopia,ETH,100.0,90
+renewables_electricity_share_pct,2025,highest,3,Paraguay,PRY,100.0,90
+renewables_electricity_share_pct,2025,highest,4,Norway,NOR,98.99882,90
+renewables_electricity_share_pct,2025,highest,5,Uruguay,URY,97.82245,90
+renewables_electricity_share_pct,2025,highest,6,Tajikistan,TJK,94.36563,90
+renewables_electricity_share_pct,2025,highest,7,Luxembourg,LUX,91.55844,90
+renewables_electricity_share_pct,2025,highest,8,Denmark,DNK,91.17117,90
+renewables_electricity_share_pct,2025,highest,9,Kenya,KEN,90.028496,90
+renewables_electricity_share_pct,2025,highest,10,New Zealand,NZL,88.53253,90
+low_carbon_electricity_share_pct,2025,highest,1,Costa Rica,CRI,100.0,90
+low_carbon_electricity_share_pct,2025,highest,2,Ethiopia,ETH,100.0,90
+low_carbon_electricity_share_pct,2025,highest,3,Paraguay,PRY,100.0,90
+low_carbon_electricity_share_pct,2025,highest,4,Norway,NOR,98.99882,90
+low_carbon_electricity_share_pct,2025,highest,5,Sweden,SWE,98.781555,90
+low_carbon_electricity_share_pct,2025,highest,6,Uruguay,URY,97.82245,90
+low_carbon_electricity_share_pct,2025,highest,7,Switzerland,CHE,97.69302,90
+low_carbon_electricity_share_pct,2025,highest,8,Finland,FIN,96.34264,90
+low_carbon_electricity_share_pct,2025,highest,9,France,FRA,94.8507,90
+low_carbon_electricity_share_pct,2025,highest,10,Tajikistan,TJK,94.36563,90
+fossil_fuels_electricity_share_pct,2025,highest,1,Bangladesh,BGD,97.86267,90
+fossil_fuels_electricity_share_pct,2025,highest,2,Kuwait,KWT,97.76192,90
+fossil_fuels_electricity_share_pct,2025,highest,3,Tunisia,TUN,95.965935,90
+fossil_fuels_electricity_share_pct,2025,highest,4,Qatar,QAT,95.94162,90
+fossil_fuels_electricity_share_pct,2025,highest,5,Oman,OMN,95.457985,90
+fossil_fuels_electricity_share_pct,2025,highest,6,Singapore,SGP,94.51371,90
+fossil_fuels_electricity_share_pct,2025,highest,7,Iran,IRN,94.299866,90
+fossil_fuels_electricity_share_pct,2025,highest,8,Puerto Rico,PRI,93.63591,90
+fossil_fuels_electricity_share_pct,2025,highest,9,Mongolia,MNG,91.64087,90
+fossil_fuels_electricity_share_pct,2025,highest,10,Moldova,MDA,88.7987,90
+solar_electricity_twh,2025,highest,1,China,CHN,1174.96,90
+solar_electricity_twh,2025,highest,2,United States,USA,388.82,90
+solar_electricity_twh,2025,highest,3,India,IND,195.99,90
+solar_electricity_twh,2025,highest,4,Japan,JPN,101.06,90
+solar_electricity_twh,2025,highest,5,Germany,DEU,89.62,90
+solar_electricity_twh,2025,highest,6,Brazil,BRA,88.64,90
+solar_electricity_twh,2025,highest,7,Spain,ESP,62.9,90
+solar_electricity_twh,2025,highest,8,Australia,AUS,56.09,90
+solar_electricity_twh,2025,highest,9,Italy,ITA,44.63,90
+solar_electricity_twh,2025,highest,10,South Korea,KOR,37.8,90
+wind_electricity_twh,2025,highest,1,China,CHN,1135.44,88
+wind_electricity_twh,2025,highest,2,United States,USA,464.39,88
+wind_electricity_twh,2025,highest,3,Germany,DEU,136.03,88
+wind_electricity_twh,2025,highest,4,Brazil,BRA,117.58,88
+wind_electricity_twh,2025,highest,5,India,IND,103.98,88
+wind_electricity_twh,2025,highest,6,United Kingdom,GBR,85.84,88
+wind_electricity_twh,2025,highest,7,Spain,ESP,58.76,88
+wind_electricity_twh,2025,highest,8,Canada,CAN,51.48,88
+wind_electricity_twh,2025,highest,9,France,FRA,46.49,88
+wind_electricity_twh,2025,highest,10,Turkey,TUR,39.42,88
+electricity_carbon_intensity_gco2eq_per_kwh,2025,lowest,1,Ethiopia,ETH,23.08,90
+electricity_carbon_intensity_gco2eq_per_kwh,2025,lowest,2,Costa Rica,CRI,24.2,90
+electricity_carbon_intensity_gco2eq_per_kwh,2025,lowest,3,Paraguay,PRY,24.7,90
+electricity_carbon_intensity_gco2eq_per_kwh,2025,lowest,4,Norway,NOR,28.11,90
+electricity_carbon_intensity_gco2eq_per_kwh,2025,lowest,5,Sweden,SWE,35.26,90
+electricity_carbon_intensity_gco2eq_per_kwh,2025,lowest,6,Switzerland,CHE,39.22,90
+electricity_carbon_intensity_gco2eq_per_kwh,2025,lowest,7,France,FRA,41.44,90
+electricity_carbon_intensity_gco2eq_per_kwh,2025,lowest,8,Finland,FIN,57.47,90
+electricity_carbon_intensity_gco2eq_per_kwh,2025,lowest,9,Tajikistan,TJK,72.56,90
+electricity_carbon_intensity_gco2eq_per_kwh,2025,lowest,10,Uruguay,URY,80.4,90

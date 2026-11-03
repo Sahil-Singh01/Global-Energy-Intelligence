@@ -1,0 +1,12 @@
+measure,value
+File size (MB),8.66
+Rows,19494.0
+Columns,130.0
+Distinct entity labels,260.0
+Earliest year,1700.0
+Latest year,2025.0
+Distinct years,326.0
+Exact duplicate rows,0.0
+Duplicate entity-year keys,0.0
+Missing cells,1550291.0
+Missing-cell rate (%),61.17
