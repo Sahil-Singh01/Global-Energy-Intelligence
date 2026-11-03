@@ -1,185 +1,143 @@
 # Global Energy Intelligence
-### A narrative-led exploratory analysis of global energy systems
+### Exploring the relationship between energy systems, renewable electricity and carbon intensity
 
 [![Notebook validation](https://github.com/Sahil-Singh01/Global-Energy-Intelligence/actions/workflows/validate-notebooks.yml/badge.svg)](https://github.com/Sahil-Singh01/Global-Energy-Intelligence/actions/workflows/validate-notebooks.yml)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Analysis](https://img.shields.io/badge/Focus-Exploratory%20Data%20Analysis-147D64)
-![Notebooks](https://img.shields.io/badge/Jupyter-5%20notebooks-F37626?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458?logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
+![Project](https://img.shields.io/badge/Project-Exploratory%20Data%20Analysis-147D64)
 
-An end-to-end Python EDA project exploring historical energy consumption, electricity generation, energy-source composition, renewable adoption, country-level differences, and electricity carbon intensity using the Our World in Data (OWID) Energy dataset.
+**An end-to-end data analytics portfolio project by [Sahil Singh](https://github.com/Sahil-Singh01).**
 
-The project is designed as an analyst's investigation rather than a collection of disconnected charts: each notebook introduces a question, explains the method, presents the analysis, and follows important code sections with a plain-English conclusion and limitations.
+I explored global energy consumption, electricity generation, energy-source composition and country-level differences using the Our World in Data (OWID) Energy dataset. The analysis moves from data-quality assessment to descriptive exploration, global trends, country benchmarking and statistical investigation.
+
+The focus is not just on producing charts. It is on asking clear questions, making defensible analytical choices, interpreting results in plain language and communicating what the data can — and cannot — tell us.
 
 ---
 
-## At a glance
+## Project snapshot
 
-| Dataset characteristic | Value |
+| | |
 |---|---:|
-| Observations | **19,494** |
+| Dataset | OWID Energy |
+| Records | **19,494** |
 | Variables | **130** |
 | Entity labels | **260** |
-| Recorded year range | **1700–2025** |
+| Recorded years | **1700–2025** |
 | Missing cells | **61.17%** |
 | Duplicate entity–year keys | **0** |
-| Main analysis notebooks | **5** |
+| Analytical notebooks | **5** |
 
-The high overall missingness is an important analytical constraint. The project therefore uses indicator-specific samples and reports coverage rather than applying blanket imputation or dropping every incomplete row.
+**Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy · Jupyter Notebook
 
-## Selected analysis
+## The questions I investigated
 
-### Data quality and coverage
+- How have global energy consumption and electricity generation evolved over time?
+- How has the electricity mix shifted across coal, gas, hydro, nuclear, solar and wind?
+- How do energy use, per-capita consumption, renewable electricity share and carbon intensity differ across country candidates?
+- Is renewable electricity share associated with electricity carbon intensity?
+- How should missingness, uneven reporting coverage and extreme values influence the conclusions?
 
-![Missingness by variable](outputs/figures/01_top_variable_missingness.png)
+## Selected findings
 
-The audit establishes the schema, missingness profile, entity coverage, year coverage, duplicate checks, and screening flags. Missing values are not automatically treated as zero, and unusual values are investigated rather than silently deleted.
+### 1. Data coverage is a central part of the analysis
 
-### Global energy and electricity trends
+The dataset contains **61.17% missing cells** overall. Rather than treating missing values as zero or dropping every incomplete row, I used indicator-specific samples and checked coverage before drawing comparisons. This matters because the available countries and years can differ substantially from one metric to another.
+
+![Variable missingness](outputs/figures/01_top_variable_missingness.png)
+
+### 2. Global energy and electricity trends need to be read separately
+
+Total energy consumption and electricity generation measure different parts of the energy system. I analyzed the global World aggregate for time-series questions and kept aggregate records out of country-level comparisons to avoid double counting.
 
 ![Global energy and electricity trends](outputs/figures/05_world_energy_and_electricity_trends.png)
 
-Global time-series analysis uses the OWID `World` aggregate where the indicator is available. Total energy and electricity generation are treated as distinct measures; aggregate records are not added to country observations.
+### 3. The global electricity mix has multiple moving parts
 
-### Electricity generation by source
+The source-level analysis compares electricity generation in TWh across major generation technologies. It distinguishes absolute generation from percentage share, since growth in total generation can change both measures differently.
 
-![Electricity generation by source](outputs/figures/06_world_electricity_sources.png)
+![Global electricity generation by source](outputs/figures/06_world_electricity_sources.png)
 
-The source-level view compares generation from selected sources in TWh. Absolute generation and percentage shares are interpreted separately.
+### 4. Renewable electricity share is strongly associated with lower electricity carbon intensity in the 2024 sample
 
-### Renewable electricity and carbon intensity
+For the 2024 cross-section, the complete-case sample contains **195 country-candidate observations**.
+
+| Statistical measure | Result |
+|---|---:|
+| Pearson correlation (r) | **−0.877** |
+| Spearman rank correlation (ρ) | **−0.894** |
+| Pearson p-value | **2.45 × 10⁻⁶³** |
+| Bootstrap 95% confidence interval for Pearson r | **[−0.917, −0.836]** |
 
 ![Renewable electricity share and carbon intensity](outputs/figures/07_renewables_vs_carbon_intensity.png)
 
-In the **2024 cross-section**, the complete-case sample contains **195 country-candidate observations**:
+Both correlation measures indicate a strong negative association in this sample. This is an observational, cross-sectional result — **not evidence that renewable share alone causes lower carbon intensity**. Nuclear generation, fossil-fuel mix, imports, geography and other factors may also influence the relationship.
 
-| Statistic | Result |
-|---|---:|
-| Pearson correlation | **−0.877** |
-| Spearman rank correlation | **−0.894** |
-| Pearson p-value | **2.45 × 10⁻⁶³** |
-| Bootstrap 95% interval for Pearson r | **[−0.917, −0.836]** |
-
-This is a strong negative association in the selected sample: observations with higher renewable electricity shares tend to have lower electricity carbon intensity. It is **not a causal estimate**. The analysis does not isolate the effects of nuclear generation, fuel mix, imports, geography, or other potential confounders. See the statistical notebook and report for the full design and sensitivity check.
+[Read the statistical findings](reports/statistical_findings.md) for the study design, sample definition and robustness notes.
 
 ---
 
-## Research questions
+## Analytical workflow
 
-1. How have global energy consumption and electricity generation changed over time?
-2. How has the global electricity mix evolved across coal, gas, hydro, nuclear, solar, and wind?
-3. How do country candidates compare on absolute energy use, per-capita use, renewable electricity share, and carbon intensity?
-4. Is renewable electricity share associated with electricity carbon intensity in a cross-section?
-5. How sensitive are the findings to reporting coverage, year selection, and extreme observations?
-
-## Notebook guide
-
-Run the notebooks in numerical order from the repository root.
-
-| Notebook | Focus | Main deliverables |
+| Stage | What I worked on | What it demonstrates |
 |---|---|---|
-| [01 — Data Audit and Preparation](notebooks/01_data_audit_and_preparation.ipynb) | Schema, integrity, missingness, entity and year coverage, quality flags | Data dictionary and audit tables |
-| [02 — Descriptive and Distributional Analysis](notebooks/02_descriptive_and_distributional_analysis.ipynb) | Summary statistics, distributions, skewness, boxplots, coverage | Descriptive tables and distribution charts |
-| [03 — Global Energy Trends](notebooks/03_global_energy_trends.ipynb) | World energy and electricity trends, source mix, endpoint changes and CAGR | Global trend tables and figures |
-| [04 — Country Benchmarking and Energy Mix](notebooks/04_country_benchmarking_and_energy_mix.ipynb) | Indicator-specific coverage, country-candidate rankings, multi-year averages | Benchmark and coverage tables |
-| [05 — Statistical Analysis and Robustness](notebooks/05_statistical_analysis_and_robustness.ipynb) | Pearson/Spearman correlation, bootstrap interval, sensitivity analysis | Statistical results and relationship chart |
+| 01 · Data audit | Schema review, integrity checks, missingness, entity and year coverage, quality flags | Data quality assessment and analytical judgement |
+| 02 · Descriptive analysis | Summary statistics, distributions, skewness and coverage | Exploratory analysis and statistical reasoning |
+| 03 · Global trends | World energy and electricity trends, generation mix, endpoint changes and growth | Time-series analysis and data storytelling |
+| 04 · Country benchmarking | Indicator coverage, country-candidate comparisons and multi-year averages | KPI interpretation and fair comparisons |
+| 05 · Statistical analysis | Pearson and Spearman correlation, bootstrap interval and sensitivity checks | Statistical testing and cautious interpretation |
 
-**Notebook reading convention:** research question → analytical approach → code and output → conclusion and limitations.
+## Explore the analysis
 
-## Repository structure
+The notebooks are presented as a guided analytical narrative. Each one includes the question being investigated, the approach, relevant outputs and plain-English conclusions.
 
-```text
-Global-Energy-Intelligence/
-├── data/
-│   ├── owid_energy.csv
-│   └── README.md
-├── notebooks/
-│   ├── 01_data_audit_and_preparation.ipynb
-│   ├── 02_descriptive_and_distributional_analysis.ipynb
-│   ├── 03_global_energy_trends.ipynb
-│   ├── 04_country_benchmarking_and_energy_mix.ipynb
-│   └── 05_statistical_analysis_and_robustness.ipynb
-├── outputs/
-│   ├── figures/                 # Saved analysis charts
-│   └── tables/                  # Reproducible CSV outputs
-├── reports/
-│   ├── executive_summary.md
-│   ├── project_methodology.md
-│   ├── data_quality_report.md
-│   ├── statistical_findings.md
-│   └── data_dictionary.csv
-├── src/
-│   ├── analysis_helpers.py
-│   ├── data_quality.py
-│   └── visualization_helpers.py
-├── .github/workflows/           # Notebook syntax validation
-├── requirements.txt
-└── README.md
-```
+1. [Data Audit and Preparation](notebooks/01_data_audit_and_preparation.ipynb)
+2. [Descriptive and Distributional Analysis](notebooks/02_descriptive_and_distributional_analysis.ipynb)
+3. [Global Energy Trends](notebooks/03_global_energy_trends.ipynb)
+4. [Country Benchmarking and Energy Mix](notebooks/04_country_benchmarking_and_energy_mix.ipynb)
+5. [Statistical Analysis and Robustness](notebooks/05_statistical_analysis_and_robustness.ipynb)
 
-## Run locally
+### Supporting project documentation
 
-**Requirements:** Python 3.10 or later.
+- [Executive Summary](reports/executive_summary.md)
+- [Data Quality Report](reports/data_quality_report.md)
+- [Project Methodology and Analytical Decisions](reports/project_methodology.md)
+- [Statistical Findings](reports/statistical_findings.md)
+- [Data Dictionary](reports/data_dictionary.csv)
+- [Analysis Outputs](outputs/README.md)
 
-```bash
-# Clone the repository
-git clone https://github.com/Sahil-Singh01/Global-Energy-Intelligence.git
-cd Global-Energy-Intelligence
+## How I approached the data
 
-# Create and activate a virtual environment
-python -m venv .venv
+- **Preserved the source data:** no blanket imputation or automatic row deletion.
+- **Separated global and country-level analysis:** the World aggregate is used for global trends and excluded from country comparisons.
+- **Used indicator-specific coverage:** each comparison is based on the observations available for that metric and period.
+- **Kept measures distinct:** total energy, electricity generation, per-capita measures, intensity and source shares are not interchangeable.
+- **Investigated unusual values:** quality flags identify records for review; they are not automatic deletion rules.
+- **Avoided causal overstatement:** descriptive patterns and correlations are presented with their limitations.
 
-# Windows PowerShell
-.venv\Scripts\Activate.ps1
+## What this project demonstrates
 
-# macOS / Linux
-source .venv/bin/activate
+- Working with a wide, real-world dataset containing substantial missingness.
+- Using Python libraries to inspect, clean, summarize and analyze structured data.
+- Building clear visualizations to communicate patterns and comparisons.
+- Applying correlation analysis, bootstrap confidence intervals and sensitivity checks.
+- Translating analytical outputs into concise findings and documented decisions.
+- Organizing a multi-notebook project with reusable helper modules and validation checks.
 
-# Install dependencies
-python -m pip install -r requirements.txt
+## Data source and attribution
 
-# Launch Jupyter
-jupyter lab
-```
-
-Open the notebooks in `notebooks/` and execute them in numerical order. Run Jupyter from the repository root so the relative data and output paths resolve correctly. Generated tables and charts are written to `outputs/`.
-
-## Analytical decisions
-
-- **Preserve the source:** the raw CSV is loaded without blanket imputation or automatic row deletion.
-- **Separate aggregates:** the `World` aggregate is used for global trends and excluded from country comparisons.
-- **Use careful entity language:** a non-null ISO code is a practical country-candidate filter, not proof of sovereign-state status.
-- **Respect indicator coverage:** each analysis selects the fields it needs and reports its valid sample size and time period.
-- **Keep measures distinct:** total energy, electricity generation, per-capita measures, intensity, and shares answer different questions.
-- **Investigate unusual values:** screening flags prompt review; they are not automatic deletion rules.
-- **Avoid causal overstatement:** correlations and descriptive comparisons do not establish cause and effect.
-
-Detailed decisions are documented in [Project Methodology](reports/project_methodology.md).
-
-## Data provenance and attribution
-
-The analysis uses the OWID Energy dataset. The dataset catalog describes a country-year table compiled from sources including the Energy Institute's Statistical Review of World Energy, Ember, the U.S. Energy Information Administration, OWID population data, and the Maddison Project Database.
+The project uses the [Our World in Data Energy dataset](https://catalog.ourworldindata.org/energy/owid_energy/). Its source documentation describes a compilation that includes providers such as the Energy Institute, Ember, the U.S. Energy Information Administration, OWID population data and the Maddison Project Database.
 
 - [OWID Energy dataset catalog and documentation](https://catalog.ourworldindata.org/energy/owid_energy/)
-- [OWID energy-data repository and source documentation](https://github.com/owid/energy-data)
+- [OWID energy-data repository](https://github.com/owid/energy-data)
 - [OWID guidance on data reuse and attribution](https://ourworldindata.org/faqs#how-should-i-cite-your-data)
 
-The dataset is a compilation of third-party sources. **Do not assume that every underlying data point is covered by one blanket license.** Check the original provider's terms and cite OWID and the relevant underlying providers when reusing or redistributing data. The included CSV is the snapshot used for this analysis; it should not be assumed to be the latest release.
-
-## Project documentation
-
-- [Executive summary](reports/executive_summary.md)
-- [Data-quality report](reports/data_quality_report.md)
-- [Statistical findings](reports/statistical_findings.md)
-- [Project methodology](reports/project_methodology.md)
-- [Data dictionary](reports/data_dictionary.csv)
-- [Output inventory](outputs/README.md)
-- [Complete file index](FILE_INDEX.md)
+The original source licenses continue to apply to the underlying data. The dataset should not be assumed to have one blanket license; consult the source documentation before reusing or redistributing data.
 
 ## Limitations
 
-This is an observational EDA project. Reporting coverage varies across entities, indicators, and years. Entity labels include aggregates and source-specific regions. Indicator definitions and units should be checked against the source codebook before high-stakes interpretation. Cross-country associations may reflect confounding factors, and the statistical analysis does not identify causal effects.
+This is an observational exploratory analysis. Reporting coverage varies across indicators, entities and years. Entity labels include aggregates and source-specific regions; a non-null ISO code is used only as a practical country-candidate filter. The 2024 correlation is cross-sectional and does not control for every factor that can influence electricity carbon intensity. Indicator definitions and units should be checked against the source documentation before high-stakes interpretation.
 
 ---
 
-**Author:** [Sahil Singh](https://github.com/Sahil-Singh01)  
-**Repository:** [Sahil-Singh01/Global-Energy-Intelligence](https://github.com/Sahil-Singh01/Global-Energy-Intelligence)
+**Created by [Sahil Singh](https://github.com/Sahil-Singh01)** · [GitHub Profile](https://github.com/Sahil-Singh01) · [LinkedIn](https://www.linkedin.com/in/sahil-singh-762a4b388/)
