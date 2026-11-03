@@ -1,7 +1,13 @@
-# Outputs
+# Analysis outputs
 
-- `figures/` contains saved charts created by the notebooks.
-- `tables/` contains CSV tables generated from the supplied dataset.
-- Re-run the notebooks in order to regenerate these files.
+This folder contains the saved visualizations and tabular results produced during the Global Energy Intelligence analysis.
 
-Tables include audit overview, data dictionary, missingness summaries, entity coverage, descriptive statistics, global trends, endpoint changes, country benchmarks, multi-year averages, correlation results and sensitivity checks.
+## Figures
+
+The figures directory contains seven charts covering data missingness, reporting coverage, distributions, global energy and electricity trends, electricity generation by source, and the renewable-share/carbon-intensity relationship.
+
+## Tables
+
+The tables directory contains supporting outputs for data auditing, descriptive statistics, indicator and entity coverage, global trends, country benchmarking, data-quality flags, and statistical analysis.
+
+These outputs are referenced throughout the project notebooks and supporting reports.
